@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Swift Exchange</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/lightbox.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <link rel="icon" href="images/icon.png" sizes="32x32">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:300,400,500,600,700" />
+    <!--/head-->
+
+    <body>
+        <header id="header">
+            <div class="navbar navbar-inverse" role="banner">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                        <a class="navbar-brand" href="index.html">
+                            <h3 class="intro">Carolyn Sun</h3> </a>
+                    </div>
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="index.html">Work</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="mailto:carolyn.sun7@gmail.com">Email</a></li>
+                            <li><a target="_blank" href="files/CarolynSun_resume.pdf">Resume</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!--/#header-->
+        <section>
+            <div class="container">
+                <h1 class="wow fadeIn title "><span class = "highlight">Swift Exchange</span></h1>
+                <div class="row"> </div>
+                <div class="row overview-section">
+                    <div class="wow fadeIn col-md-10 col-md-push-1 col-sm-12">
+                        <h3>Overview</h3>
+                        <p>At the start of every semester, college students must buy textbooks for their classes, and many opt to buy used books for the lower prices. Duke students currently use a Facebook group, Duke Textbook Exchange, to buy and sell used books. As a user of this group myself, I noticed many problems and inconveniences with using this group. Thus, I decided to challenge myself by designing a <span class="highlight">website</span> for Duke students to efficiently buy and sell used textbooks. </p>
+                        <p> This project is currently in progress. Working with student engineers, I am the <span class="highlight">sole designer</span>. </p>
+                        <div class="overview-subsection">
+                            <h5>Problem</h5>
+                            <p>Duke students have no means to efficiently buy and sell used textbooks. Using the Duke Textbook Exchange Facebook group isn't an ideal experience.</p>
+                        </div>
+                        <div class="overview-subsection">
+                            <h5>Solution</h5>
+                            <p>A website that makes the process of buying and selling used books more efficient by 1) helping sellers fill in detailed information for their listings, 2) expediting the buyer’s process of finding his/her desired book, and 3) helping the buyer and seller easily meet up to make the exchange.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="wow fadeIn col-sm-12 " data-wow-duration="1000ms" data-wow-delay="500ms"> <img src="images/swift/swiftmockup.jpg" class="img-responsive" alt=""> </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn ">
+                        <h2 class="highlight section">Problem</h2> </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 wow fadeIn">
+                        <ul class="elements">
+                            <li><i class="fa fa-angle-right"></i> Textbooks are <span class="highlight">expensive</span>.</li>
+                            <li><i class="fa fa-angle-right"></i> Students currently buy and sell used textbooks in a <span class="highlight">Duke Facebook group</span>, which has several problems for this use case. The group is inefficient, there is no consistency with information posted on listings, and users don't mark items as sold.</li>
+                        </ul>
+                    </div>
+                
+                <div class="col-md-6 wow fadeIn">
+                        <div class="portfolio-wrapper">
+                            <a href="images/swift/fbgroup.jpg" data-lightbox="example-set">
+                                <div class="portfolio-single">
+                                    <div class="portfolio-thumb"> <img src="images/swift/fbgroup.jpg" class="img-responsive" alt=""> </div>
+                                    <div class="portfolio-view no-caption"> </div>
+                                </div>
+                            </a>
+                            <div class="portfolio-info">
+                                <p>A screenshot showing example posts in the Duke Textbook Exchange group.</p>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn ">
+                        <h2 class="highlight section">Solution overview</h2> </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 wow fadeIn">
+                        <ol class="elements">
+                            <li> Sellers post a listing for a book they want to sell on the website. Sellers are encouraged or required to fill in detailed information about their used books.</li>
+                            <li> Buyers browse book listings posted by sellers.</li>
+                            <li> If a buyer wants to buy a book and reserves it, the buyer and seller can view each other’s contact information. </li>
+                            <li> The buyer and seller meet up on campus to make the exchange.</li>
+                            <li> The listing for the bought book is removed from the catalogue.</li>
+                        </ol>
+                    </div>
+                    <div class="col-md-6 wow fadeIn">
+                        <div class="portfolio-wrapper">
+                            <a href="images/swift/storyboard.jpg" data-lightbox="example-set">
+                                <div class="portfolio-single">
+                                    <div class="portfolio-thumb"> <img src="images/swift/storyboard.jpg" class="img-responsive" alt=""> </div>
+                                    <div class="portfolio-view no-caption"> </div>
+                                </div>
+                            </a>
+                            <div class="portfolio-info">
+                                <p>A storyboard of the users' journey.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn ">
+                        <h2 class="highlight section">Product goals</h2> </div>
+                </div>
+                <div class="row">
+                        <div class="col-md-12 wow fadeIn ">
+                            <p>I defined general goals to act as touchstones throughout the project:</p>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-11 col-md-push-1 wow fadeIn">
+                        <ul class="elements">
+                            <li><i class="fa fa-angle-right"></i> The website should be intuitive, efficient, and trustworthy.</li>
+                            <li><i class="fa fa-angle-right"></i> Duke students will use this website instead of the Facebook group to buy/sell textbooks.</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn ">
+                        <h2 class="highlight section">Design process outline</h2> </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-11 col-md-push-1 wow fadeIn">
+                        <ol class="elements">
+                        <li> Identify user needs via research and interviews </li>
+                        <li> Define overall user flow </li>
+                        <li> Ideate and sketch screens on paper </li>
+                        <li> Low-fidelity wireframes in Sketch </li>
+                        <li> High-fidelity wireframes in Sketch and prototyping in Invision</li>
+                    </ol>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn ">
+                        <h2 class="highlight section">User needs</h2> </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 wow fadeIn ">
+                        <p>I identified/validated user needs by <span class="highlight">interviewing students. </span>My research objectives were: </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-11 col-md-push-1 wow fadeIn padding-bottom-sm">
+                        <ol class="elements">
+                            <li> Identify students' userflows with using the Facebook group, and their <span class="highlight">painpoints.</span>
+</li>
+                        <li> Identify features that the Facebook group lacks.
+</li>
+                        <li> Find out why people don’t use the Facebook group.
+</li>
+                            <li> Ask exploratory, broad questions to determine overall user needs of buyers and sellers, keeping in mind that students are often both. <span class="highlight">How do I design a product that benefits buyers and sellers equally?</span></li>
+                    </ol>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 wow fadeIn ">
+                        <p>With research objective #4, a point I had to keep in mind was that buyers want lower prices, while sellers want higher prices — how would I make the product “fair” for both buyers and sellers, who are often the same person? Through user research, I found that even though sellers might want to make a profit, most are more concerned with selling as quickly as possible, at lower prices if necessary. Furthermore, sometimes buyers would buy books for higher prices, if that meant they could obtain the item quickly. In other words, buyers and sellers share the common user need of efficiency.</p>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <div class="col-md-12 wow fadeIn ">
+                        <p>Thus, I decided to prioritize<span class="highlight"> designing for efficiency for users.</span></p>
+                    </div>
+                </div>
+                <div class="row">
+                <div class="col-md-12 wow fadeIn ">
+                        <p>One <span class="highlight">key decision</span> was whether or not I should allow buyers and sellers to negotiate prices. Since I usually negotiate, I was surprised to find through user research that most people do not negotiate, since they want to buy/sell quickly. Thus, I decided to not allow users to negotiate; this would increase efficiency.</p>
+                    </div>
+                </div>
+                
+                
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn ">
+                        <h2 class="highlight section">User needs of a buyer</h2> </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 wow fadeIn ">
+                        <p>Since I wanted to design the userflow of a buyer first, I analyzed my interview results to <span class="highlight">conslidate the user needs of a buyer</span>:</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-11 col-md-push-1 wow fadeIn">
+                        <ul class="elements">
+                            <li><i class="fa fa-angle-right"></i> Find specific books quickly and easily, by browsing detailed and accurate listings </li>
+                            <li><i class="fa fa-angle-right"></i> Find the cheapest books </li>
+                            <li><i class="fa fa-angle-right"></i> Obtain books quickly </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn ">
+                        <h2 class="highlight section">Defining userflow of a buyer</h2> </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 wow fadeIn">
+                        <p>After conducting user research, I sketched out a flowchart of the user's journey. Most buyers use the Facebook group with the intent of finding a specific book, so they almost always start with the Search feature of Facebook groups. Thus, I decided that <span class="highlight">a buyer's user flow for my website should also begin with Search</span>.</p>
+                    </div>
+                    
+                    <div class="col-md-6  wow fadeIn">
+                        <div class="portfolio-wrapper">
+                            <a href="images/swift/buyer_userflow1.jpg" data-lightbox="example-set">
+                                <div class="portfolio-single">
+                                    <div class="portfolio-thumb"> <img src="images/swift/buyer_userflow1.jpg" class="img-responsive" alt=""> </div>
+                                    <div class="portfolio-view no-caption"> </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn">
+                        <h2 class="highlight section">Ideation</h2> </div>
+                </div>
+                <div class="row col-sm-12 wow fadeIn padding-bottom-sm">
+                    <p>With the user flowchart as a guide, I sketched out a broad range of rough wireframes for consideration.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 wow fadeIn">
+                        <div class="portfolio-wrapper">
+                            <a href="images/swift/buyer_whiteboarding1.jpg" data-lightbox="example-set">
+                                <div class="portfolio-single">
+                                    <div class="portfolio-thumb"> <img src="images/swift/buyer_whiteboarding1-pre.jpg" class="img-responsive" alt=""> </div>
+                                    <div class="portfolio-view no-caption"> </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 wow fadeIn">
+                        <div class="portfolio-wrapper">
+                            <a href="images/swift/buyer_whiteboarding2.jpg" data-lightbox="example-set">
+                                <div class="portfolio-single">
+                                    <div class="portfolio-thumb"> <img src="images/swift/buyer_whiteboarding2.jpg" class="img-responsive" alt=""> </div>
+                                    <div class="portfolio-view no-caption"> </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn">
+                        <h2 class="highlight section">Low-fidelity wireframes</h2> </div>
+                </div>
+                <div class="row col-sm-12 wow fadeIn padding-bottom-sm">
+                    <p>Using <span class="highlight">Sketch</span>, I refined my sketches through low-fidelity wireframes that were grayscale with approximate spacing. At this stage, I focused on nailing down overall page layouts and functionality. Explorations included whether to display search results in a grid or list layout, and whether to display specific listings in separate pages or a side panel. Throughout the iterative process, I <span class="highlight">interviewed users</span> and conducted<span class="highlight"> usability tests</span> to ensure that my designs were on the right track.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 wow fadeIn padding-bottom-sm">
+                        <div class="portfolio-wrapper">
+                            <a href="images/swift/results.svg" data-lightbox="example-set">
+                                <div class="portfolio-single">
+                                    <div class="portfolio-thumb"> <img src="images/swift/results.svg" class="img-responsive" alt=""> </div>
+                                    <div class="portfolio-view no-caption"> </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 wow fadeIn ">
+                        <div class="portfolio-wrapper">
+                            <a href="images/swift/listing.svg" data-lightbox="example-set">
+                                <div class="portfolio-single">
+                                    <div class="portfolio-thumb"> <img src="images/swift/listing.svg" class="img-responsive" alt=""> </div>
+                                    <div class="portfolio-view no-caption"> </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn">
+                        <h2 class="highlight section">High-fidelity wireframes</h2> </div>
+                </div>
+                <div class="row col-sm-12 wow fadeIn padding-bottom-sm">
+                    <p>Once I had finished overall page layouts, the next step was <span class="highlight">defining a design system</span> and more <span class="highlight">nuanced user interactions</span>. Explorations included how to indicate the difference between action links and regular links, as well as using toasts after bookmarking listings.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 wow fadeIn">
+                        <div class="portfolio-wrapper">
+                            <a href="images/swift/filter_iterations.svg" data-lightbox="example-set">
+                                <div class="portfolio-single">
+                                    <div class="portfolio-thumb"> <img src="images/swift/filter_iterations.svg" class="img-responsive" alt=""> </div>
+                                    <div class="portfolio-view no-caption"> </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 wow fadeIn padding-top-sm">
+                        <div class="portfolio-wrapper">
+                            <a href="images/swift/toasts.svg" data-lightbox="example-set">
+                                <div class="portfolio-single">
+                                    <div class="portfolio-thumb"> <img src="images/swift/toasts.svg" class="img-responsive" alt=""> </div>
+                                    <div class="portfolio-view no-caption"> </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn ">
+                        <h2 class="highlight section">Solution demo - the userflow of buying a book</h2> </div>
+                </div>
+                <div class="row">
+                    <div class="wow fadeIn col-sm-12 padding-bottom-sm">
+                        <div class="videoWrapper">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/-aJA4WAmBVU" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="wow fadeIn col-sm-12">
+                        <div>
+                            <p>Above is a rough prototype made in <span class="highlight">Invision</span>.
+                                <p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn">
+                        <h2 class="highlight section">This is still a work-in-progress! Check back soon or <a href = "mailto:carolyn.sun7@gmail.com">contact me</a> for details :)</h2> </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 wow fadeIn">
+                        <h4 class="sub-section">Next steps for the design of Buying a Book Userflow</h4> </div>
+                </div>
+                <div class="row">
+                    <div class="wow fadeIn col-sm-12 col-md-10 col-md-push-1">
+                        <ul class="elements">
+                            <li><i class="fa fa-angle-right"></i> Design what happens when a bookmarked listing is bought by someone else</li>
+                            <li><i class="fa fa-angle-right"></i> Continue testing and iterating on the modal to confirm reserving a book </li>
+                            <li><i class="fa fa-angle-right"></i> Design a notification system for unlisted books</li>
+                        </ul>
+                    </div>
+                </div>
+                    <div class="row">
+                        <div class="col-sm-12 wow fadeIn">
+                            <h4 class="sub-section">Next steps for this project</h4> </div>
+                    </div>
+                    <div class="row">
+                        <div class="wow fadeIn col-sm-12 col-md-10 col-md-push-1">
+                            <ul class="elements">
+                                <li><i class="fa fa-angle-right"></i> Finish designing userflows for selling and onboarding</li>
+                                <li><i class="fa fa-angle-right"></i> High-fidelity prototyping with HTML/CSS/JS</li>
+                                <li><i class="fa fa-angle-right"></i> Work with engineers to implement designs</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+        </section>
+        <!--/#recent-projects-->
+        <div class="container">
+            <div class="row footer-padding">
+                <div class="col-lg-12">
+                    <h5 class="left"><a href="index.html">Back to Work</a></h5>
+                    <h5 class="right"><a href ="bc.html">prev</a> / <a href="alation.html">next</a></h5> </div>
+            </div>
+            <footer id="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div>
+                                <p class="copyright-text text-center">Made with <i class="copyright fa fa-heart-o"></i> by Carolyn Sun</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!--/#footer-->
+            <script type="text/javascript" src="js/jquery.js"></script>
+            <script type="text/javascript" src="js/bootstrap.min.js"></script>
+            <script type="text/javascript" src="js/lightbox.min.js"></script>
+            <script type="text/javascript" src="js/wow.min.js"></script>
+            <script type="text/javascript" src="js/main.js"></script>
+    </body>
+
+</html>

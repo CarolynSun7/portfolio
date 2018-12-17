@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1068px" height="1160px" viewBox="0 0 1068 1160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #EBEBEB;">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>filter_final</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="filter-portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="filter_final">
+            <path d="M175.888,51.96 L175.888,57.096 L160.504,57.096 L160.504,67.368 L173.488,67.368 L173.488,72.528 L160.504,72.528 L160.504,86.664 L154,86.664 L154,51.96 L175.888,51.96 Z M186.928,62.04 L186.928,86.664 L181,86.664 L181,62.04 L186.928,62.04 Z M187.816,54.864 C187.816,55.3760026 187.712001,55.8559978 187.504,56.304 C187.295999,56.7520022 187.020002,57.1439983 186.676,57.48 C186.331998,57.8160017 185.928002,58.083999 185.464,58.284 C184.999998,58.484001 184.504003,58.584 183.976,58.584 C183.463997,58.584 182.980002,58.484001 182.524,58.284 C182.067998,58.083999 181.672002,57.8160017 181.336,57.48 C180.999998,57.1439983 180.732001,56.7520022 180.532,56.304 C180.331999,55.8559978 180.232,55.3760026 180.232,54.864 C180.232,54.3359974 180.331999,53.8400023 180.532,53.376 C180.732001,52.9119977 180.999998,52.5120017 181.336,52.176 C181.672002,51.8399983 182.067998,51.572001 182.524,51.372 C182.980002,51.171999 183.463997,51.072 183.976,51.072 C184.504003,51.072 184.999998,51.171999 185.464,51.372 C185.928002,51.572001 186.331998,51.8399983 186.676,52.176 C187.020002,52.5120017 187.295999,52.9119977 187.504,53.376 C187.712001,53.8400023 187.816,54.3359974 187.816,54.864 Z M193.624,86.664 L193.624,62.04 L197.248,62.04 C198.016004,62.04 198.519999,62.3999964 198.76,63.12 L199.168,65.064 C199.664002,64.5519974 200.187997,64.0880021 200.74,63.672 C201.292003,63.2559979 201.875997,62.8960015 202.492,62.592 C203.108003,62.2879985 203.767996,62.0560008 204.472,61.896 C205.176004,61.7359992 205.943996,61.656 206.776,61.656 C208.120007,61.656 209.311995,61.8839977 210.352,62.34 C211.392005,62.7960023 212.259997,63.4359959 212.956,64.26 C213.652003,65.0840041 214.179998,66.0679943 214.54,67.212 C214.900002,68.3560057 215.08,69.6159931 215.08,70.992 L215.08,86.664 L209.152,86.664 L209.152,70.992 C209.152,69.4879925 208.804003,68.3240041 208.108,67.5 C207.411997,66.6759959 206.368007,66.264 204.976,66.264 C203.951995,66.264 202.992004,66.4959977 202.096,66.96 C201.199996,67.4240023 200.352004,68.055996 199.552,68.856 L199.552,86.664 L193.624,86.664 Z M240.208,86.664 L237.544,86.664 C236.983997,86.664 236.544002,86.5800008 236.224,86.412 C235.903998,86.2439992 235.664001,85.9040026 235.504,85.392 L234.976,83.64 C234.351997,84.2000028 233.740003,84.6919979 233.14,85.116 C232.539997,85.5400021 231.920003,85.8959986 231.28,86.184 C230.639997,86.4720014 229.960004,86.6879993 229.24,86.832 C228.519996,86.9760007 227.720004,87.048 226.84,87.048 C225.799995,87.048 224.840004,86.9080014 223.96,86.628 C223.079996,86.3479986 222.324003,85.9280028 221.692,85.368 C221.059997,84.8079972 220.568002,84.1120042 220.216,83.28 C219.863998,82.4479958 219.688,81.4800055 219.688,80.376 C219.688,79.4479954 219.931998,78.5320045 220.42,77.628 C220.908002,76.7239955 221.719994,75.9080036 222.856,75.18 C223.992006,74.4519964 225.503991,73.8480024 227.392,73.368 C229.280009,72.8879976 231.623986,72.6160003 234.424,72.552 L234.424,71.112 C234.424,69.4639918 234.076003,68.244004 233.38,67.452 C232.683997,66.659996 231.672007,66.264 230.344,66.264 C229.383995,66.264 228.584003,66.3759989 227.944,66.6 C227.303997,66.8240011 226.748002,67.0759986 226.276,67.356 C225.803998,67.6360014 225.368002,67.8879989 224.968,68.112 C224.567998,68.3360011 224.128002,68.448 223.648,68.448 C223.247998,68.448 222.904001,68.344001 222.616,68.136 C222.327999,67.927999 222.096001,67.6720015 221.92,67.368 L220.84,65.472 C223.672014,62.879987 227.08798,61.584 231.088,61.584 C232.528007,61.584 233.811994,61.8199976 234.94,62.292 C236.068006,62.7640024 237.023996,63.4199958 237.808,64.26 C238.592004,65.1000042 239.187998,66.1039942 239.596,67.272 C240.004002,68.4400058 240.208,69.719993 240.208,71.112 L240.208,86.664 Z M228.688,82.968 C229.296003,82.968 229.855997,82.9120006 230.368,82.8 C230.880003,82.6879994 231.363998,82.5200011 231.82,82.296 C232.276002,82.0719989 232.715998,81.7960016 233.14,81.468 C233.564002,81.1399984 233.991998,80.7520022 234.424,80.304 L234.424,76.152 C232.695991,76.2320004 231.252006,76.3799989 230.092,76.596 C228.931994,76.8120011 228.000004,77.0879983 227.296,77.424 C226.591996,77.7600017 226.092001,78.1519978 225.796,78.6 C225.499999,79.0480022 225.352,79.5359974 225.352,80.064 C225.352,81.1040052 225.659997,81.8479978 226.276,82.296 C226.892003,82.7440022 227.695995,82.968 228.688,82.968 Z M252.352,51 L252.352,86.664 L246.424,86.664 L246.424,51 L252.352,51 Z" id="Final" fill="#4A90E2"></path>
+            <g id="results-list-view" transform="translate(75.000000, 140.000000)">
+                <rect id="Rectangle-3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="256" height="858"></rect>
+                <text id="Filter-by" fill="#003773" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500">
+                    <tspan x="51" y="45">Filter by</tspan>
+                </text>
+                <path d="M45.9402199,34.3877841 C46.0527467,34.6595658 46.0064129,34.891571 45.801217,35.0838068 L40.9063265,39.9857955 L40.9063265,47.3636364 C40.9063265,47.6420468 40.7772536,47.8375941 40.5191039,47.9502841 C40.433054,47.9834282 40.350315,48 40.2708843,48 C40.0921653,48 39.9432351,47.9370271 39.8240891,47.8110795 L37.2823204,45.265625 C37.1565552,45.1396774 37.0936735,44.9905312 37.0936735,44.8181818 L37.0936735,39.9857955 L32.198783,35.0838068 C31.9935871,34.891571 31.9472533,34.6595658 32.0597801,34.3877841 C32.1723068,34.1292601 32.367571,34 32.6455783,34 L45.3544217,34 C45.632429,34 45.8276932,34.1292601 45.9402199,34.3877841 Z" id="" fill="#003773" fill-rule="nonzero"></path>
+                <g id="Group-3" transform="translate(32.000000, 641.000000)">
+                    <g id="Forms-/-checkbox:-unchecked">
+                        <text id="Under-$20" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <tspan x="22" y="15">Under $20</tspan>
+                        </text>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-1-link" fill="#FFFFFF">
+                                <rect id="path-1" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 24.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="$20---$40">
+                                <tspan x="0" y="15">$20 - $40</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-2-link" fill="#FFFFFF">
+                                <rect id="path-2" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 48.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="$40---$60">
+                                <tspan x="0" y="15">$40 - $60</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-3-link" fill="#FFFFFF">
+                                <rect id="path-3" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 72.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="$60---$80">
+                                <tspan x="0" y="15">$60 - $80</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-4-link" fill="#FFFFFF">
+                                <rect id="path-4" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 96.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="$80---$100">
+                                <tspan x="0" y="15">$80 - $100</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-5-link" fill="#FFFFFF">
+                                <rect id="path-5" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 120.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="$100---$150">
+                                <tspan x="0" y="15">$100 - $150</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-6-link" fill="#FFFFFF">
+                                <rect id="path-6" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 144.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="Over-$150">
+                                <tspan x="0" y="15">Over $150</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-7-link" fill="#FFFFFF">
+                                <rect id="path-7" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Forms-/-checkbox:-unchecked" transform="translate(32.000000, 305.000000)">
+                    <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                        <text id="Paperback">
+                            <tspan x="0" y="15">Paperback</tspan>
+                        </text>
+                    </g>
+                    <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                        <g id="path-8-link" fill="#FFFFFF">
+                            <rect id="path-8" x="0" y="0" width="14" height="14" rx="2"></rect>
+                        </g>
+                        <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                    </g>
+                </g>
+                <g id="Forms-/-checkbox:-unchecked" transform="translate(32.000000, 329.000000)">
+                    <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                        <text id="Hardcover">
+                            <tspan x="0" y="15">Hardcover</tspan>
+                        </text>
+                    </g>
+                    <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                        <g id="path-9-link" fill="#FFFFFF">
+                            <rect id="path-9" x="0" y="0" width="14" height="14" rx="2"></rect>
+                        </g>
+                        <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                    </g>
+                </g>
+                <g id="Forms-/-checkbox:-unchecked" transform="translate(32.000000, 353.000000)">
+                    <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                        <text id="Binder-/-Loose-Leaf">
+                            <tspan x="0" y="15">Binder / Loose Leaf</tspan>
+                        </text>
+                    </g>
+                    <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                        <g id="path-10-link" fill="#FFFFFF">
+                            <rect id="path-10" x="0" y="0" width="14" height="14" rx="2"></rect>
+                        </g>
+                        <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                    </g>
+                </g>
+                <g id="Forms-/-checkbox:-unchecked" transform="translate(32.000000, 417.000000)">
+                    <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                        <text id="New">
+                            <tspan x="0" y="15">New</tspan>
+                        </text>
+                    </g>
+                    <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                        <g id="path-11-link" fill="#FFFFFF">
+                            <rect id="path-11" x="0" y="0" width="14" height="14" rx="2"></rect>
+                        </g>
+                        <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                    </g>
+                </g>
+                <g id="Forms-/-checkbox:-unchecked" transform="translate(32.000000, 441.000000)">
+                    <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                        <text id="Like-New">
+                            <tspan x="0" y="15">Like New</tspan>
+                        </text>
+                    </g>
+                    <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                        <g id="path-12-link" fill="#FFFFFF">
+                            <rect id="path-12" x="0" y="0" width="14" height="14" rx="2"></rect>
+                        </g>
+                        <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                    </g>
+                </g>
+                <g id="Forms-/-checkbox:-unchecked" transform="translate(32.000000, 465.000000)">
+                    <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                        <text id="Good">
+                            <tspan x="0" y="15">Good</tspan>
+                        </text>
+                    </g>
+                    <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                        <g id="path-13-link" fill="#FFFFFF">
+                            <rect id="path-13" x="0" y="0" width="14" height="14" rx="2"></rect>
+                        </g>
+                        <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                    </g>
+                </g>
+                <g id="Forms-/-checkbox:-unchecked" transform="translate(32.000000, 489.000000)">
+                    <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                        <text id="Acceptable">
+                            <tspan x="0" y="15">Acceptable</tspan>
+                        </text>
+                    </g>
+                    <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                        <g id="path-14-link" fill="#FFFFFF">
+                            <rect id="path-14" x="0" y="0" width="14" height="14" rx="2"></rect>
+                        </g>
+                        <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                    </g>
+                </g>
+                <g id="Forms-/-checkbox:-unchecked" transform="translate(32.000000, 553.000000)">
+                    <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                        <text id="Not-Highlighted">
+                            <tspan x="0" y="15">Not Highlighted</tspan>
+                        </text>
+                    </g>
+                    <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                        <g id="path-15-link" fill="#FFFFFF">
+                            <rect id="path-15" x="0" y="0" width="14" height="14" rx="2"></rect>
+                        </g>
+                        <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                    </g>
+                </g>
+                <g id="Forms-/-checkbox:-unchecked" transform="translate(32.000000, 577.000000)">
+                    <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                        <text id="Not-Annotated">
+                            <tspan x="0" y="15">Not Annotated</tspan>
+                        </text>
+                    </g>
+                    <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                        <g id="path-16-link" fill="#FFFFFF">
+                            <rect id="path-16" x="0" y="0" width="14" height="14" rx="2"></rect>
+                        </g>
+                        <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                    </g>
+                </g>
+                <g id="Group-3-Copy" transform="translate(32.000000, 97.000000)">
+                    <g id="Forms-/-checkbox:-unchecked">
+                        <text id="Course" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <tspan x="22" y="15">Course</tspan>
+                        </text>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-17-link" fill="#FFFFFF">
+                                <rect id="path-17" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 24.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="Medical-School-Prep">
+                                <tspan x="0" y="15">Medical School Prep</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-18-link" fill="#FFFFFF">
+                                <rect id="path-18" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 48.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="Law-School-Prep">
+                                <tspan x="0" y="15">Law School Prep</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-19-link" fill="#FFFFFF">
+                                <rect id="path-19" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 72.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="Graduate-School-Prep">
+                                <tspan x="0" y="15">Graduate School Prep</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-20-link" fill="#FFFFFF">
+                                <rect id="path-20" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 96.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="Consulting-Interview-Prep">
+                                <tspan x="0" y="15">Consulting Interview Prep</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-21-link" fill="#FFFFFF">
+                                <rect id="path-21" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 120.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="Tech-Interview-Prep">
+                                <tspan x="0" y="15">Tech Interview Prep</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-22-link" fill="#FFFFFF">
+                                <rect id="path-22" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 144.000000)">
+                        <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                            <text id="Other">
+                                <tspan x="0" y="15">Other</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                            <g id="path-23-link" fill="#FFFFFF">
+                                <rect id="path-23" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-12" transform="translate(32.000000, 72.000000)" fill="#003773">
+                    <g id="Group-8" transform="translate(0.000000, 544.000000)">
+                        <g id="Price" transform="translate(13.000000, 0.000000)" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold">
+                            <text>
+                                <tspan x="0" y="15">Price</tspan>
+                            </text>
+                        </g>
+                        <g id="minus" transform="translate(0.000000, 9.000000)" fill-rule="nonzero">
+                            <polygon id="+" points="5.14151925 0 9 0 9 2 5.14151925 2 3.83975026 2 0 2 0 0 3.83975026 0"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-10" transform="translate(0.000000, 208.000000)">
+                        <g id="Format" transform="translate(13.000000, 0.000000)" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold">
+                            <text>
+                                <tspan x="0" y="15">Format</tspan>
+                            </text>
+                        </g>
+                        <g id="plus" transform="translate(0.000000, 9.000000)" fill-rule="nonzero">
+                            <g id="minus">
+                                <polygon id="+" points="5.14151925 0 9 0 9 2 5.14151925 2 3.83975026 2 0 2 0 0 3.83975026 0"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-9" transform="translate(0.000000, 320.000000)">
+                        <g id="minus" transform="translate(0.000000, 9.000000)" fill-rule="nonzero">
+                            <polygon id="+" points="5.14151925 0 9 0 9 2 5.14151925 2 3.83975026 2 0 2 0 0 3.83975026 0"></polygon>
+                        </g>
+                        <g id="Condition" transform="translate(13.000000, 0.000000)" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold">
+                            <text>
+                                <tspan x="0" y="15">Condition</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-2" transform="translate(0.000000, 456.000000)">
+                        <g id="Condition-Details" transform="translate(13.000000, 0.000000)" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold">
+                            <text>
+                                <tspan x="0" y="15">Condition Details</tspan>
+                            </text>
+                        </g>
+                        <g id="minus" transform="translate(0.000000, 9.000000)" fill-rule="nonzero">
+                            <polygon id="+" points="5.14151925 0 9 0 9 2 5.14151925 2 3.83975026 2 0 2 0 0 3.83975026 0"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-11">
+                        <text id="Purpose" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold">
+                            <tspan x="13" y="15">Purpose</tspan>
+                        </text>
+                        <g id="minus" transform="translate(0.000000, 9.000000)" fill-rule="nonzero">
+                            <polygon id="+" points="5.14151925 0 9 0 9 2 5.14151925 2 3.83975026 2 0 2 0 0 3.83975026 0"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path d="M607.28,86.088 L600.776,86.088 L600.776,70.92 L584.504,70.92 L584.504,86.088 L578,86.088 L578,51.384 L584.504,51.384 L584.504,66.312 L600.776,66.312 L600.776,51.384 L607.28,51.384 L607.28,86.088 Z M624.464,61.08 C626.304009,61.08 627.971993,61.375997 629.468,61.968 C630.964007,62.560003 632.239995,63.3999946 633.296,64.488 C634.352005,65.5760054 635.167997,66.9039922 635.744,68.472 C636.320003,70.0400078 636.608,71.7919903 636.608,73.728 C636.608,75.6800098 636.320003,77.4399922 635.744,79.008 C635.167997,80.5760078 634.352005,81.9119945 633.296,83.016 C632.239995,84.1200055 630.964007,84.967997 629.468,85.56 C627.971993,86.152003 626.304009,86.448 624.464,86.448 C622.623991,86.448 620.952008,86.152003 619.448,85.56 C617.943992,84.967997 616.660005,84.1200055 615.596,83.016 C614.531995,81.9119945 613.708003,80.5760078 613.124,79.008 C612.539997,77.4399922 612.248,75.6800098 612.248,73.728 C612.248,71.7919903 612.539997,70.0400078 613.124,68.472 C613.708003,66.9039922 614.531995,65.5760054 615.596,64.488 C616.660005,63.3999946 617.943992,62.560003 619.448,61.968 C620.952008,61.375997 622.623991,61.08 624.464,61.08 Z M624.464,81.888 C626.51201,81.888 628.027995,81.2000069 629.012,79.824 C629.996005,78.4479931 630.488,76.4320133 630.488,73.776 C630.488,71.1199867 629.996005,69.096007 629.012,67.704 C628.027995,66.311993 626.51201,65.616 624.464,65.616 C622.38399,65.616 620.848005,66.315993 619.856,67.716 C618.863995,69.116007 618.368,71.1359868 618.368,73.776 C618.368,76.4160132 618.863995,78.4279931 619.856,79.812 C620.848005,81.1960069 622.38399,81.888 624.464,81.888 Z M652.784,86.088 L647.408,86.088 L637.616,61.464 L642.536,61.464 C642.968002,61.464 643.331999,61.567999 643.628,61.776 C643.924001,61.984001 644.127999,62.2479984 644.24,62.568 L648.992,75.72 C649.264001,76.4880038 649.491999,77.2399963 649.676,77.976 C649.860001,78.7120037 650.023999,79.4479963 650.168,80.184 C650.312001,79.4479963 650.475999,78.7120037 650.66,77.976 C650.844001,77.2399963 651.079999,76.4880038 651.368,75.72 L656.24,62.568 C656.352001,62.2479984 656.551999,61.984001 656.84,61.776 C657.128001,61.567999 657.471998,61.464 657.872,61.464 L662.552,61.464 L652.784,86.088 Z M675.44,61.08 C676.992008,61.08 678.419993,61.3279975 679.724,61.824 C681.028007,62.3200025 682.151995,63.0439952 683.096,63.996 C684.040005,64.9480048 684.775997,66.1159931 685.304,67.5 C685.832003,68.8840069 686.096,70.4639911 686.096,72.24 C686.096,72.6880022 686.076,73.0599985 686.036,73.356 C685.996,73.6520015 685.924001,73.8839992 685.82,74.052 C685.715999,74.2200008 685.576001,74.3399996 685.4,74.412 C685.223999,74.4840004 685.000001,74.52 684.728,74.52 L669.512,74.52 C669.688001,77.0480126 670.367994,78.9039941 671.552,80.088 C672.736006,81.2720059 674.30399,81.864 676.256,81.864 C677.216005,81.864 678.043997,81.7520011 678.74,81.528 C679.436003,81.3039989 680.043997,81.0560014 680.564,80.784 C681.084003,80.5119986 681.539998,80.2640011 681.932,80.04 C682.324002,79.8159989 682.703998,79.704 683.072,79.704 C683.312001,79.704 683.519999,79.7519995 683.696,79.848 C683.872001,79.9440005 684.023999,80.0799991 684.152,80.256 L685.88,82.416 C685.223997,83.1840038 684.488004,83.8279974 683.672,84.348 C682.855996,84.8680026 682.004004,85.2839984 681.116,85.596 C680.227996,85.9080016 679.324005,86.1279994 678.404,86.256 C677.483995,86.3840006 676.592004,86.448 675.728,86.448 C674.015991,86.448 672.424007,86.1640028 670.952,85.596 C669.479993,85.0279972 668.200005,84.1880056 667.112,83.076 C666.023995,81.9639944 665.168003,80.5880082 664.544,78.948 C663.919997,77.3079918 663.608,75.4080108 663.608,73.248 C663.608,71.5679916 663.879997,69.9880074 664.424,68.508 C664.968003,67.0279926 665.747995,65.7400055 666.764,64.644 C667.780005,63.5479945 669.019993,62.6800032 670.484,62.04 C671.948007,61.3999968 673.599991,61.08 675.44,61.08 Z M675.56,65.328 C673.831991,65.328 672.480005,65.8159951 671.504,66.792 C670.527995,67.7680049 669.904001,69.151991 669.632,70.944 L680.768,70.944 C680.768,70.1759962 680.664001,69.4520034 680.456,68.772 C680.247999,68.0919966 679.928002,67.4960026 679.496,66.984 C679.063998,66.4719974 678.520003,66.0680015 677.864,65.772 C677.207997,65.4759985 676.440004,65.328 675.56,65.328 Z M690.92,86.088 L690.92,61.464 L694.4,61.464 C695.008003,61.464 695.431999,61.5759989 695.672,61.8 C695.912001,62.0240011 696.072,62.4079973 696.152,62.952 L696.512,65.928 C697.392004,64.4079924 698.423994,63.2080044 699.608,62.328 C700.792006,61.4479956 702.119993,61.008 703.592,61.008 C704.808006,61.008 705.815996,61.2879972 706.616,61.848 L705.848,66.288 C705.8,66.5760014 705.696001,66.7799994 705.536,66.9 C705.375999,67.0200006 705.160001,67.08 704.888,67.08 C704.647999,67.08 704.320002,67.0240006 703.904,66.912 C703.487998,66.7999994 702.936003,66.744 702.248,66.744 C701.015994,66.744 699.960004,67.0839966 699.08,67.764 C698.199996,68.4440034 697.456003,69.4399934 696.848,70.752 L696.848,86.088 L690.92,86.088 Z M738.728,57.696 C738.551999,58.0480018 738.348001,58.2959993 738.116,58.44 C737.883999,58.5840007 737.608002,58.656 737.288,58.656 C736.967998,58.656 736.608002,58.5320012 736.208,58.284 C735.807998,58.0359988 735.336003,57.7600015 734.792,57.456 C734.247997,57.1519985 733.612004,56.8760012 732.884,56.628 C732.155996,56.3799988 731.296005,56.256 730.304,56.256 C729.407996,56.256 728.628003,56.3639989 727.964,56.58 C727.299997,56.7960011 726.740002,57.0959981 726.284,57.48 C725.827998,57.8640019 725.488001,58.3239973 725.264,58.86 C725.039999,59.3960027 724.928,59.9839968 724.928,60.624 C724.928,61.4400041 725.155998,62.1199973 725.612,62.664 C726.068002,63.2080027 726.671996,63.6719981 727.424,64.056 C728.176004,64.4400019 729.031995,64.7839985 729.992,65.088 C730.952005,65.3920015 731.931995,65.7159983 732.932,66.06 C733.932005,66.4040017 734.911995,66.8039977 735.872,67.26 C736.832005,67.7160023 737.687996,68.2919965 738.44,68.988 C739.192004,69.6840035 739.795998,70.535995 740.252,71.544 C740.708002,72.552005 740.936,73.7759928 740.936,75.216 C740.936,76.7840078 740.668003,78.2519932 740.132,79.62 C739.595997,80.9880068 738.812005,82.1799949 737.78,83.196 C736.747995,84.2120051 735.488007,85.0119971 734,85.596 C732.511993,86.1800029 730.80801,86.472 728.888,86.472 C727.783994,86.472 726.696005,86.3640011 725.624,86.148 C724.551995,85.9319989 723.524005,85.624002 722.54,85.224 C721.555995,84.823998 720.636004,84.3440028 719.78,83.784 C718.923996,83.2239972 718.160003,82.6000034 717.488,81.912 L719.36,78.816 C719.536001,78.5919989 719.747999,78.4040008 719.996,78.252 C720.244001,78.0999992 720.519998,78.024 720.824,78.024 C721.224002,78.024 721.655998,78.1879984 722.12,78.516 C722.584002,78.8440016 723.131997,79.207998 723.764,79.608 C724.396003,80.008002 725.139996,80.3719984 725.996,80.7 C726.852004,81.0280016 727.879994,81.192 729.08,81.192 C730.920009,81.192 732.343995,80.7560044 733.352,79.884 C734.360005,79.0119956 734.864,77.7600082 734.864,76.128 C734.864,75.2159954 734.636002,74.4720029 734.18,73.896 C733.723998,73.3199971 733.120004,72.836002 732.368,72.444 C731.615996,72.051998 730.760005,71.7200014 729.8,71.448 C728.839995,71.1759986 727.864005,70.8800016 726.872,70.56 C725.879995,70.2399984 724.904005,69.8560022 723.944,69.408 C722.983995,68.9599978 722.128004,68.3760036 721.376,67.656 C720.623996,66.9359964 720.020002,66.0360054 719.564,64.956 C719.107998,63.8759946 718.88,62.5440079 718.88,60.96 C718.88,59.6959937 719.131997,58.464006 719.636,57.264 C720.140003,56.063994 720.875995,55.0000046 721.844,54.072 C722.812005,53.1439954 723.999993,52.4000028 725.408,51.84 C726.816007,51.2799972 728.423991,51 730.232,51 C732.28001,51 734.167991,51.3199968 735.896,51.96 C737.624009,52.6000032 739.095994,53.4959942 740.312,54.648 L738.728,57.696 Z M753.632,86.472 C751.503989,86.472 749.864006,85.868006 748.712,84.66 C747.559994,83.451994 746.984,81.7840106 746.984,79.656 L746.984,65.904 L744.488,65.904 C744.167998,65.904 743.892001,65.800001 743.66,65.592 C743.427999,65.383999 743.312,65.0720021 743.312,64.656 L743.312,62.304 L747.272,61.656 L748.52,54.936 C748.584,54.6159984 748.731999,54.3680009 748.964,54.192 C749.196001,54.0159991 749.487998,53.928 749.84,53.928 L752.912,53.928 L752.912,61.68 L759.392,61.68 L759.392,65.904 L752.912,65.904 L752.912,79.248 C752.912,80.0160038 753.103998,80.6159978 753.488,81.048 C753.872002,81.4800022 754.383997,81.696 755.024,81.696 C755.392002,81.696 755.699999,81.6520004 755.948,81.564 C756.196001,81.4759996 756.411999,81.3840005 756.596,81.288 C756.780001,81.1919995 756.943999,81.1000004 757.088,81.012 C757.232001,80.9239996 757.375999,80.88 757.52,80.88 C757.696001,80.88 757.839999,80.9239996 757.952,81.012 C758.064001,81.1000004 758.183999,81.2319991 758.312,81.408 L760.088,84.288 C759.223996,85.0080036 758.232006,85.5519982 757.112,85.92 C755.991994,86.2880018 754.832006,86.472 753.632,86.472 Z M783.416,86.088 L780.752,86.088 C780.191997,86.088 779.752002,86.0040008 779.432,85.836 C779.111998,85.6679992 778.872001,85.3280026 778.712,84.816 L778.184,83.064 C777.559997,83.6240028 776.948003,84.1159979 776.348,84.54 C775.747997,84.9640021 775.128003,85.3199986 774.488,85.608 C773.847997,85.8960014 773.168004,86.1119993 772.448,86.256 C771.727996,86.4000007 770.928004,86.472 770.048,86.472 C769.007995,86.472 768.048004,86.3320014 767.168,86.052 C766.287996,85.7719986 765.532003,85.3520028 764.9,84.792 C764.267997,84.2319972 763.776002,83.5360042 763.424,82.704 C763.071998,81.8719958 762.896,80.9040055 762.896,79.8 C762.896,78.8719954 763.139998,77.9560045 763.628,77.052 C764.116002,76.1479955 764.927994,75.3320036 766.064,74.604 C767.200006,73.8759964 768.711991,73.2720024 770.6,72.792 C772.488009,72.3119976 774.831986,72.0400003 777.632,71.976 L777.632,70.536 C777.632,68.8879918 777.284003,67.668004 776.588,66.876 C775.891997,66.083996 774.880007,65.688 773.552,65.688 C772.591995,65.688 771.792003,65.7999989 771.152,66.024 C770.511997,66.2480011 769.956002,66.4999986 769.484,66.78 C769.011998,67.0600014 768.576002,67.3119989 768.176,67.536 C767.775998,67.7600011 767.336002,67.872 766.856,67.872 C766.455998,67.872 766.112001,67.768001 765.824,67.56 C765.535999,67.351999 765.304001,67.0960015 765.128,66.792 L764.048,64.896 C766.880014,62.303987 770.29598,61.008 774.296,61.008 C775.736007,61.008 777.019994,61.2439976 778.148,61.716 C779.276006,62.1880024 780.231996,62.8439958 781.016,63.684 C781.800004,64.5240042 782.395998,65.5279942 782.804,66.696 C783.212002,67.8640058 783.416,69.143993 783.416,70.536 L783.416,86.088 Z M771.896,82.392 C772.504003,82.392 773.063997,82.3360006 773.576,82.224 C774.088003,82.1119994 774.571998,81.9440011 775.028,81.72 C775.484002,81.4959989 775.923998,81.2200016 776.348,80.892 C776.772002,80.5639984 777.199998,80.1760022 777.632,79.728 L777.632,75.576 C775.903991,75.6560004 774.460006,75.8039989 773.3,76.02 C772.139994,76.2360011 771.208004,76.5119983 770.504,76.848 C769.799996,77.1840017 769.300001,77.5759978 769.004,78.024 C768.707999,78.4720022 768.56,78.9599974 768.56,79.488 C768.56,80.5280052 768.867997,81.2719978 769.484,81.72 C770.100003,82.1680022 770.903995,82.392 771.896,82.392 Z M797.336,86.472 C795.207989,86.472 793.568006,85.868006 792.416,84.66 C791.263994,83.451994 790.688,81.7840106 790.688,79.656 L790.688,65.904 L788.192,65.904 C787.871998,65.904 787.596001,65.800001 787.364,65.592 C787.131999,65.383999 787.016,65.0720021 787.016,64.656 L787.016,62.304 L790.976,61.656 L792.224,54.936 C792.288,54.6159984 792.435999,54.3680009 792.668,54.192 C792.900001,54.0159991 793.191998,53.928 793.544,53.928 L796.616,53.928 L796.616,61.68 L803.096,61.68 L803.096,65.904 L796.616,65.904 L796.616,79.248 C796.616,80.0160038 796.807998,80.6159978 797.192,81.048 C797.576002,81.4800022 798.087997,81.696 798.728,81.696 C799.096002,81.696 799.403999,81.6520004 799.652,81.564 C799.900001,81.4759996 800.115999,81.3840005 800.3,81.288 C800.484001,81.1919995 800.647999,81.1000004 800.792,81.012 C800.936001,80.9239996 801.079999,80.88 801.224,80.88 C801.400001,80.88 801.543999,80.9239996 801.656,81.012 C801.768001,81.1000004 801.887999,81.2319991 802.016,81.408 L803.792,84.288 C802.927996,85.0080036 801.936006,85.5519982 800.816,85.92 C799.695994,86.2880018 798.536006,86.472 797.336,86.472 Z M818,61.08 C819.552008,61.08 820.979993,61.3279975 822.284,61.824 C823.588007,62.3200025 824.711995,63.0439952 825.656,63.996 C826.600005,64.9480048 827.335997,66.1159931 827.864,67.5 C828.392003,68.8840069 828.656,70.4639911 828.656,72.24 C828.656,72.6880022 828.636,73.0599985 828.596,73.356 C828.556,73.6520015 828.484001,73.8839992 828.38,74.052 C828.275999,74.2200008 828.136001,74.3399996 827.96,74.412 C827.783999,74.4840004 827.560001,74.52 827.288,74.52 L812.072,74.52 C812.248001,77.0480126 812.927994,78.9039941 814.112,80.088 C815.296006,81.2720059 816.86399,81.864 818.816,81.864 C819.776005,81.864 820.603997,81.7520011 821.3,81.528 C821.996003,81.3039989 822.603997,81.0560014 823.124,80.784 C823.644003,80.5119986 824.099998,80.2640011 824.492,80.04 C824.884002,79.8159989 825.263998,79.704 825.632,79.704 C825.872001,79.704 826.079999,79.7519995 826.256,79.848 C826.432001,79.9440005 826.583999,80.0799991 826.712,80.256 L828.44,82.416 C827.783997,83.1840038 827.048004,83.8279974 826.232,84.348 C825.415996,84.8680026 824.564004,85.2839984 823.676,85.596 C822.787996,85.9080016 821.884005,86.1279994 820.964,86.256 C820.043995,86.3840006 819.152004,86.448 818.288,86.448 C816.575991,86.448 814.984007,86.1640028 813.512,85.596 C812.039993,85.0279972 810.760005,84.1880056 809.672,83.076 C808.583995,81.9639944 807.728003,80.5880082 807.104,78.948 C806.479997,77.3079918 806.168,75.4080108 806.168,73.248 C806.168,71.5679916 806.439997,69.9880074 806.984,68.508 C807.528003,67.0279926 808.307995,65.7400055 809.324,64.644 C810.340005,63.5479945 811.579993,62.6800032 813.044,62.04 C814.508007,61.3999968 816.159991,61.08 818,61.08 Z M818.12,65.328 C816.391991,65.328 815.040005,65.8159951 814.064,66.792 C813.087995,67.7680049 812.464001,69.151991 812.192,70.944 L823.328,70.944 C823.328,70.1759962 823.224001,69.4520034 823.016,68.772 C822.807999,68.0919966 822.488002,67.4960026 822.056,66.984 C821.623998,66.4719974 821.080003,66.0680015 820.424,65.772 C819.767997,65.4759985 819.000004,65.328 818.12,65.328 Z M848.096,66.264 C847.935999,66.5200013 847.768001,66.6999995 847.592,66.804 C847.415999,66.9080005 847.192001,66.96 846.92,66.96 C846.631999,66.96 846.324002,66.8800008 845.996,66.72 C845.667998,66.5599992 845.288002,66.380001 844.856,66.18 C844.423998,65.979999 843.932003,65.8000008 843.38,65.64 C842.827997,65.4799992 842.176004,65.4 841.424,65.4 C840.255994,65.4 839.336003,65.6479975 838.664,66.144 C837.991997,66.6400025 837.656,67.287996 837.656,68.088 C837.656,68.6160026 837.827998,69.0599982 838.172,69.42 C838.516002,69.7800018 838.971997,70.0959986 839.54,70.368 C840.108003,70.6400014 840.751996,70.8839989 841.472,71.1 C842.192004,71.3160011 842.927996,71.5519987 843.68,71.808 C844.432004,72.0640013 845.167996,72.3559984 845.888,72.684 C846.608004,73.0120016 847.251997,73.4279975 847.82,73.932 C848.388003,74.4360025 848.843998,75.0399965 849.188,75.744 C849.532002,76.4480035 849.704,77.295995 849.704,78.288 C849.704,79.4720059 849.488002,80.563995 849.056,81.564 C848.623998,82.564005 847.992004,83.4279964 847.16,84.156 C846.327996,84.8840036 845.300006,85.451998 844.076,85.86 C842.851994,86.268002 841.448008,86.472 839.864,86.472 C839.015996,86.472 838.188004,86.3960008 837.38,86.244 C836.571996,86.0919992 835.796004,85.8800014 835.052,85.608 C834.307996,85.3359986 833.620003,85.0160018 832.988,84.648 C832.355997,84.2799982 831.800002,83.8800022 831.32,83.448 L832.688,81.192 C832.864001,80.9199986 833.071999,80.7120007 833.312,80.568 C833.552001,80.4239993 833.855998,80.352 834.224,80.352 C834.592002,80.352 834.939998,80.455999 835.268,80.664 C835.596002,80.872001 835.975998,81.0959988 836.408,81.336 C836.840002,81.5760012 837.347997,81.799999 837.932,82.008 C838.516003,82.216001 839.255996,82.32 840.152,82.32 C840.856004,82.32 841.459997,82.2360008 841.964,82.068 C842.468003,81.8999992 842.883998,81.6800014 843.212,81.408 C843.540002,81.1359986 843.779999,80.8200018 843.932,80.46 C844.084001,80.0999982 844.16,79.7280019 844.16,79.344 C844.16,78.7679971 843.988002,78.2960018 843.644,77.928 C843.299998,77.5599982 842.844003,77.2400014 842.276,76.968 C841.707997,76.6959986 841.060004,76.4520011 840.332,76.236 C839.603996,76.0199989 838.860004,75.7840013 838.1,75.528 C837.339996,75.2719987 836.596004,74.9720017 835.868,74.628 C835.139996,74.2839983 834.492003,73.8480026 833.924,73.32 C833.355997,72.7919974 832.900002,72.1440038 832.556,71.376 C832.211998,70.6079962 832.04,69.6800054 832.04,68.592 C832.04,67.583995 832.239998,66.6240046 832.64,65.712 C833.040002,64.7999954 833.627996,64.0040034 834.404,63.324 C835.180004,62.6439966 836.147994,62.100002 837.308,61.692 C838.468006,61.283998 839.807992,61.08 841.328,61.08 C843.024008,61.08 844.567993,61.3599972 845.96,61.92 C847.352007,62.4800028 848.511995,63.2159954 849.44,64.128 L848.096,66.264 Z" id="Hover-States" fill="#4A90E2"></path>
+            <g id="Group-2" transform="translate(431.000000, 140.000000)">
+                <g id="hover-effects" transform="translate(75.000000, 0.000000)">
+                    <rect id="Rectangle-4" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="413" height="364"></rect>
+                    <g transform="translate(79.000000, 60.000000)">
+                        <g id="Group-9">
+                            <g id="Text" transform="translate(0.000000, 47.000000)" fill="#348DF2" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                                <text>
+                                    <tspan x="0" y="15">Text</tspan>
+                                </text>
+                            </g>
+                            <g id="Default-Copy-2" transform="translate(58.000000, 74.000000)">
+                                <g id="path-1-link" transform="translate(1.000000, 2.000000)" fill="#000000" fill-rule="nonzero">
+                                    <path d="M0,0 L0,12 L3,9 L5.5,14 L6.5,14 C6.5,14 7.1456602,13.3495845 7,13 C6.3123269,11.3495845 4.5,8 4.5,8 L8,8 L0,0 Z" id="path-1"></path>
+                                </g>
+                                <g id="path-1-link" transform="translate(1.000000, 2.000000)" fill="#000000">
+                                    <path d="M0,0 L0,12 L3,9 L5.5,14 L6.5,14 C6.5,14 7.1456602,13.3495845 7,13 C6.3123269,11.3495845 4.5,8 4.5,8 L8,8 L0,0 Z" id="path-1"></path>
+                                </g>
+                                <path d="M6.3338608,10.5 C6.3468078,10.5244526 6.3599647,10.5493185 6.3733246,10.5745859 C6.6981205,11.1888684 7.0229486,11.8144029 7.3263752,12.4144041 C7.4046273,12.5693945 7.4046273,12.5693945 7.4826281,12.7249777 C7.909089,13.5772237 8.2441484,14.2859561 8.4615385,14.8076923 C8.5704398,15.0690556 8.5272515,15.3338139 8.3978998,15.6062776 C8.3371667,15.7342044 8.2573596,15.861622 8.1627679,15.9895812 C8.0483943,16.1443006 7.9356373,16.2708698 7.8548482,16.3522538 L7.7081822,16.5 L6.190983,16.5 L3.8630243,11.8440825 L0.5,15.2071068 L0.5,0.7928932 L10.2071068,10.5 L6.333861,10.5 L6.3338608,10.5 Z" id="Shape" stroke="#FFFFFF"></path>
+                            </g>
+                            <g id="Link" transform="translate(114.000000, 0.000000)" fill="#4E4E4E" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal">
+                                <text>
+                                    <tspan x="0.05" y="14">Link</tspan>
+                                </text>
+                            </g>
+                            <g id="Group-6" transform="translate(219.000000, 47.000000)">
+                                <g id="Text" fill="#E42667" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                                    <text>
+                                        <tspan x="0" y="15">Text</tspan>
+                                    </text>
+                                </g>
+                                <g id="Pointer-Copy-2" transform="translate(22.000000, 12.000000)">
+                                    <g id="path-3-link" transform="translate(1.000000, 1.000000)" fill="#000000" fill-rule="nonzero">
+                                        <path d="M5.0303087,14 C5.0303087,14 2.811066,12.3012618 2.0303089,11 C1.2495518,9.6987382 -0.2299434,8.0410095 0.030309,7 C0.2905613,5.9589905 1.2495518,5.6309149 2.0303089,6.4116721 C2.8110661,7.1924292 3.3370074,8.8840694 3.8575123,8.623817 C4.3780171,8.3635647 3.9876383,5.8911672 3.4671337,4.4597792 C2.9466291,3.0283912 2.4039585,2.00000001e-07 3.4671337,0 C4.5303089,-9.99999994e-08 4.5303087,1 5.0303087,2.5 C5.5303087,4 5.1399301,5.9999993 5.5303087,6 C5.9206874,6.0000006 6.0696572,5.6506308 6.0696573,5 C6.0696574,4.8231855 6.1043246,4.6737454 6.1747111,4.5498595 C6.3633284,4.217878 6.8084456,4.0694009 7.5303087,4.0694008 C8.5215502,4.0694008 8.0303087,6.0000001 8.5303087,6 C9.0303087,6 9.0303091,6.0410094 9.0303087,5 C9.0303083,3.9589906 9.493948,4.069401 10.493948,4.0694008 C11.493948,4.0694008 11.0098044,5.9999999 11.5303087,6 C12.0508131,6.0000001 11.5303087,5.0000001 12.0303087,5 C12.5303087,5 13.0303081,5.1577286 13.0303087,7.5 C13.0303093,9.8422714 13.3110662,9.9589904 12.5303087,11 C11.7495512,12.0410096 11.0303087,13 11.0303087,13 C11.0303087,13 11.0303087,14 10.493948,14 C9.9575872,14.0000001 9.68094,12.9999999 9.0303087,13 C8.3796774,13.0000001 8.0303087,14 8.0303087,14 L5.0303087,14 Z M11.030309,12 L11.030309,8 L10.030309,8 L10.030309,12 L11.030309,12 Z M8.030309,11 C8.030309,11.2708838 8.2622426,12 8.530309,12 C8.8064513,12 9.030309,11.2754211 9.030309,11 L9.030309,9 C9.030309,8.7291162 8.7983754,8 8.530309,8 C8.2541666,8 8.030309,8.7245789 8.030309,9 L8.030309,11 Z M6.030309,11 C6.030309,11.2708838 6.2622426,12 6.530309,12 C6.8064513,12 7.030309,11.2754211 7.030309,11 L7.030309,9 C7.030309,8.7291162 6.7983754,8 6.530309,8 C6.2541666,8 6.030309,8.7245789 6.030309,9 L6.030309,11 Z" id="path-3"></path>
+                                    </g>
+                                    <g id="path-3-link" transform="translate(1.000000, 1.000000)" fill="#FFFFFF">
+                                        <path d="M5.0303087,14 C5.0303087,14 2.811066,12.3012618 2.0303089,11 C1.2495518,9.6987382 -0.2299434,8.0410095 0.030309,7 C0.2905613,5.9589905 1.2495518,5.6309149 2.0303089,6.4116721 C2.8110661,7.1924292 3.3370074,8.8840694 3.8575123,8.623817 C4.3780171,8.3635647 3.9876383,5.8911672 3.4671337,4.4597792 C2.9466291,3.0283912 2.4039585,2.00000001e-07 3.4671337,0 C4.5303089,-9.99999994e-08 4.5303087,1 5.0303087,2.5 C5.5303087,4 5.1399301,5.9999993 5.5303087,6 C5.9206874,6.0000006 6.0696572,5.6506308 6.0696573,5 C6.0696574,4.8231855 6.1043246,4.6737454 6.1747111,4.5498595 C6.3633284,4.217878 6.8084456,4.0694009 7.5303087,4.0694008 C8.5215502,4.0694008 8.0303087,6.0000001 8.5303087,6 C9.0303087,6 9.0303091,6.0410094 9.0303087,5 C9.0303083,3.9589906 9.493948,4.069401 10.493948,4.0694008 C11.493948,4.0694008 11.0098044,5.9999999 11.5303087,6 C12.0508131,6.0000001 11.5303087,5.0000001 12.0303087,5 C12.5303087,5 13.0303081,5.1577286 13.0303087,7.5 C13.0303093,9.8422714 13.3110662,9.9589904 12.5303087,11 C11.7495512,12.0410096 11.0303087,13 11.0303087,13 C11.0303087,13 11.0303087,14 10.493948,14 C9.9575872,14.0000001 9.68094,12.9999999 9.0303087,13 C8.3796774,13.0000001 8.0303087,14 8.0303087,14 L5.0303087,14 Z M11.030309,12 L11.030309,8 L10.030309,8 L10.030309,12 L11.030309,12 Z M8.030309,11 C8.030309,11.2708838 8.2622426,12 8.530309,12 C8.8064513,12 9.030309,11.2754211 9.030309,11 L9.030309,9 C9.030309,8.7291162 8.7983754,8 8.530309,8 C8.2541666,8 8.030309,8.7245789 8.030309,9 L8.030309,11 Z M6.030309,11 C6.030309,11.2708838 6.2622426,12 6.530309,12 C6.8064513,12 7.030309,11.2754211 7.030309,11 L7.030309,9 C7.030309,8.7291162 6.7983754,8 6.530309,8 C6.2541666,8 6.030309,8.7245789 6.030309,9 L6.030309,11 Z" id="path-3"></path>
+                                    </g>
+                                    <path d="M5.3464938,2.9750788 C5.344902,2.9695308 5.3433049,2.9639584 5.3417021,2.9583611 C5.343993,2.9663615 5.3459189,2.9730806 5.3475024,2.9785977 L5.3464938,2.9750788 Z M4.6063616,8.8688683 C4.6027263,8.6645732 4.5954057,8.3732696 4.5561262,8.0393946 C4.4633515,7.25081 4.245065,6.3121779 3.997237,5.6306507 C3.6974922,4.8063522 3.4412383,3.6493127 3.3745616,2.7292596 C3.2775822,1.3910656 3.54088,0.5000002 4.4671337,0.5 C5.3935279,0.4999999 5.8001017,0.9857808 6.1315801,2.0862434 C6.1018063,1.9873985 6.3982424,3.0226621 6.5046504,3.3418861 C6.6093657,3.6560322 6.6830292,3.9986422 6.7325527,4.3747211 C6.7693286,4.6539947 6.7897186,4.8903133 6.8033453,5.2025009 C7.1187301,4.7518273 7.6964556,4.5694009 8.5303087,4.5694008 C9.1193464,4.5694008 9.429019,4.8734485 9.5941035,5.4070606 C9.6716987,5.1059383 9.8245525,4.8869289 10.0767491,4.7413192 C10.3602115,4.5776578 10.5655828,4.5604563 11.2490452,4.5677385 C11.3689303,4.5689927 11.4226229,4.5694008 11.493948,4.5694008 C12.1577064,4.5694008 12.4692282,4.9519024 12.6232638,5.6166263 C12.7363598,5.5419295 12.8743799,5.5 13.0303087,5.5 C14.0887537,5.5 14.5303082,6.2823549 14.5303087,8.4999999 C14.5303088,8.9125726 14.5383263,9.2604767 14.5545164,9.6875433 C14.5985755,10.8497428 14.5948422,10.9979705 14.4485036,11.4100702 C14.350829,11.6851285 14.1951602,11.9468649 13.9303087,12.3000001 C12.8969495,13.6778121 12.7999733,13.8071137 12.5232936,14.1760202 C12.5128419,14.3113719 12.489589,14.4677182 12.4461986,14.6295137 C12.3105875,15.135185 12.0170789,15.5 11.4939481,15.5 C11.1132703,15.5000001 10.8654377,15.3231063 10.5479989,14.9659274 C10.5171651,14.9312336 10.4856518,14.8949899 10.427785,14.8282135 C10.2068051,14.5742554 10.1071553,14.5 10.0303088,14.5 C9.9485456,14.5 9.8282311,14.5907818 9.700807,14.7796466 C9.6023882,14.9255204 9.5330563,15.0769638 9.5023307,15.1649097 L9.3852607,15.5 L5.8609097,15.5 L5.7263952,15.3970347 C5.619372,15.3151129 5.4356308,15.1694172 5.2004805,14.9743411 C4.8090039,14.6495797 4.4173993,14.3046237 4.0505666,13.9532621 C3.7429461,13.6586155 3.4660369,13.3718986 3.2270489,13.0965327 C2.9696019,12.799898 2.7592497,12.5200601 2.6015624,12.2572479 C2.428841,11.969379 2.3434348,11.8424581 1.8324893,11.099907 C1.7378,10.9622963 1.6658609,10.8569915 1.5963947,10.7539705 C0.7086449,9.4374033 0.3537182,8.6448103 0.5452377,7.8787322 C0.9019656,6.4518208 2.3340468,6.0083032 3.3838623,7.0581187 C3.6370553,7.3113117 3.8583541,7.6241829 4.1346995,8.0836864 C4.1979165,8.1888029 4.4094942,8.5495202 4.4503694,8.6177801 C4.5094923,8.7165129 4.5605221,8.7988317 4.6063616,8.8688683 Z M11.530309,11 L11.530309,9 L11.030309,9.5 L12.030309,9.5 L11.530309,9 L11.530309,11 Z M11.530309,11 L11.530309,13 L12.030309,12.5 L11.030309,12.5 L11.530309,13 L11.530309,11 Z M9.7107033,9.446887 C9.6830363,9.4719991 9.6262939,9.5 9.530309,9.5 C9.4220185,9.5 9.3637659,9.4664768 9.3386547,9.4394851 C9.3672849,9.4809674 9.3940024,9.5309946 9.420387,9.5933254 C9.4842988,9.7443103 9.530309,9.9331742 9.530309,10 L9.530309,12 C9.530309,12.0716349 9.4855417,12.2603554 9.4228269,12.4097725 C9.3938384,12.4788371 9.3644348,12.5320146 9.3431994,12.5593743 C9.3775817,12.5280009 9.434324,12.5 9.530309,12.5 C9.6385994,12.5 9.6968521,12.5335232 9.7219632,12.5605149 C9.6933331,12.5190326 9.6666155,12.4690054 9.6402309,12.4066746 C9.5763191,12.2556897 9.530309,12.0668258 9.530309,12 L9.530309,10 C9.530309,9.9283651 9.5750762,9.7396446 9.637791,9.5902275 C9.6667795,9.5211629 9.6961831,9.4679854 9.7174185,9.4406257 L9.7107033,9.446887 Z M9.3431994,12.5593743 C9.3420555,12.5608481 9.3409353,12.5622471 9.3398401,12.5635695 C9.342629,12.5602019 9.3459774,12.5566867 9.3499147,12.553113 L9.3431994,12.5593743 Z M9.7219632,12.5605149 C9.723395,12.562054 9.7247191,12.5635719 9.7259386,12.5650611 C9.7223416,12.5606686 9.7184961,12.5555101 9.714444,12.5496359 L9.7219632,12.5605149 Z M7.7107033,9.446887 C7.6830363,9.4719991 7.6262939,9.5 7.530309,9.5 C7.4220185,9.5 7.3637659,9.4664768 7.3386547,9.4394851 C7.3672849,9.4809674 7.3940024,9.5309946 7.420387,9.5933254 C7.4842988,9.7443103 7.530309,9.9331742 7.530309,10 L7.530309,12 C7.530309,12.0716349 7.4855417,12.2603554 7.4228269,12.4097725 C7.3938384,12.4788371 7.3644348,12.5320146 7.3431994,12.5593743 C7.3775817,12.5280009 7.434324,12.5 7.530309,12.5 C7.6385994,12.5 7.6968521,12.5335232 7.7219632,12.5605149 C7.6933331,12.5190326 7.6666155,12.4690054 7.6402309,12.4066746 C7.5763191,12.2556897 7.530309,12.0668258 7.530309,12 L7.530309,10 C7.530309,9.9283651 7.5750762,9.7396446 7.637791,9.5902275 C7.6667795,9.5211629 7.6961831,9.4679854 7.7174185,9.4406257 L7.7107033,9.446887 Z M7.3431994,12.5593743 C7.3420555,12.5608481 7.3409353,12.5622471 7.3398401,12.5635695 C7.342629,12.5602019 7.3459774,12.5566867 7.3499147,12.553113 L7.3431994,12.5593743 Z M7.7219632,12.5605149 C7.723395,12.562054 7.7247191,12.5635719 7.7259386,12.5650611 C7.7223416,12.5606686 7.7184961,12.5555101 7.714444,12.5496359 L7.7219632,12.5605149 Z" id="Shape" stroke="#000000"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-10" transform="translate(0.000000, 152.000000)">
+                            <g id="Text" transform="translate(0.000000, 47.000000)" fill="#003773" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                                <text>
+                                    <tspan x="0.52734375" y="15">Text</tspan>
+                                </text>
+                            </g>
+                            <g id="Default-Copy-2" transform="translate(58.000000, 74.000000)">
+                                <g id="path-5-link" transform="translate(1.000000, 2.000000)" fill="#000000" fill-rule="nonzero">
+                                    <path d="M0,0 L0,12 L3,9 L5.5,14 L6.5,14 C6.5,14 7.1456602,13.3495845 7,13 C6.3123269,11.3495845 4.5,8 4.5,8 L8,8 L0,0 Z" id="path-5"></path>
+                                </g>
+                                <g id="path-5-link" transform="translate(1.000000, 2.000000)" fill="#000000">
+                                    <path d="M0,0 L0,12 L3,9 L5.5,14 L6.5,14 C6.5,14 7.1456602,13.3495845 7,13 C6.3123269,11.3495845 4.5,8 4.5,8 L8,8 L0,0 Z" id="path-5"></path>
+                                </g>
+                                <path d="M6.3338608,10.5 C6.3468078,10.5244526 6.3599647,10.5493185 6.3733246,10.5745859 C6.6981205,11.1888684 7.0229486,11.8144029 7.3263752,12.4144041 C7.4046273,12.5693945 7.4046273,12.5693945 7.4826281,12.7249777 C7.909089,13.5772237 8.2441484,14.2859561 8.4615385,14.8076923 C8.5704398,15.0690556 8.5272515,15.3338139 8.3978998,15.6062776 C8.3371667,15.7342044 8.2573596,15.861622 8.1627679,15.9895812 C8.0483943,16.1443006 7.9356373,16.2708698 7.8548482,16.3522538 L7.7081822,16.5 L6.190983,16.5 L3.8630243,11.8440825 L0.5,15.2071068 L0.5,0.7928932 L10.2071068,10.5 L6.333861,10.5 L6.3338608,10.5 Z" id="Shape" stroke="#FFFFFF"></path>
+                            </g>
+                            <g id="Action-Link" transform="translate(93.000000, 0.000000)" fill="#4E4E4E" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal">
+                                <text>
+                                    <tspan x="0.483" y="14">Action Link</tspan>
+                                </text>
+                            </g>
+                            <g id="Text" transform="translate(219.000000, 47.000000)" fill="#E42667" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                                <text>
+                                    <tspan x="0.527344" y="15">Text</tspan>
+                                </text>
+                            </g>
+                            <g id="Pointer-Copy-2" transform="translate(241.000000, 59.000000)">
+                                <g id="path-7-link" transform="translate(1.000000, 1.000000)" fill="#000000" fill-rule="nonzero">
+                                    <path d="M5.030309,14 C5.030309,14 2.811066,12.3012618 2.030309,11 C1.249552,9.6987382 -0.229943,8.0410095 0.030309,7 C0.290561,5.9589905 1.249552,5.6309149 2.030309,6.4116721 C2.811066,7.1924292 3.337007,8.8840694 3.857512,8.623817 C4.378017,8.3635647 3.987638,5.8911672 3.467134,4.4597792 C2.946629,3.0283912 2.403959,2.00000002e-07 3.467134,0 C4.530309,-1.00000001e-07 4.530309,1 5.030309,2.5 C5.530309,4 5.13993,5.9999993 5.530309,6 C5.920687,6.0000006 6.069657,5.6506308 6.069657,5 C6.069657,4.8231855 6.104325,4.6737454 6.174711,4.5498595 C6.363328,4.217878 6.808446,4.0694009 7.530309,4.0694008 C8.52155,4.0694008 8.030309,6.0000001 8.530309,6 C9.030309,6 9.030309,6.0410094 9.030309,5 C9.030308,3.9589906 9.493948,4.069401 10.493948,4.0694008 C11.493948,4.0694008 11.009804,5.9999999 11.530309,6 C12.050813,6.0000001 11.530309,5.0000001 12.030309,5 C12.530309,5 13.030308,5.1577286 13.030309,7.5 C13.030309,9.8422714 13.311066,9.9589904 12.530309,11 C11.749551,12.0410096 11.030309,13 11.030309,13 C11.030309,13 11.030309,14 10.493948,14 C9.957587,14.0000001 9.68094,12.9999999 9.030309,13 C8.379677,13.0000001 8.030309,14 8.030309,14 L5.030309,14 Z M11.030309,12 L11.030309,8 L10.030309,8 L10.030309,12 L11.030309,12 Z M8.030309,11 C8.030309,11.2708838 8.262243,12 8.530309,12 C8.806451,12 9.030309,11.2754211 9.030309,11 L9.030309,9 C9.030309,8.7291162 8.798375,8 8.530309,8 C8.254167,8 8.030309,8.7245789 8.030309,9 L8.030309,11 Z M6.030309,11 C6.030309,11.2708838 6.262243,12 6.530309,12 C6.806451,12 7.030309,11.2754211 7.030309,11 L7.030309,9 C7.030309,8.7291162 6.798375,8 6.530309,8 C6.254167,8 6.030309,8.7245789 6.030309,9 L6.030309,11 Z" id="path-7"></path>
+                                </g>
+                                <g id="path-7-link" transform="translate(1.000000, 1.000000)" fill="#FFFFFF">
+                                    <path d="M5.030309,14 C5.030309,14 2.811066,12.3012618 2.030309,11 C1.249552,9.6987382 -0.229943,8.0410095 0.030309,7 C0.290561,5.9589905 1.249552,5.6309149 2.030309,6.4116721 C2.811066,7.1924292 3.337007,8.8840694 3.857512,8.623817 C4.378017,8.3635647 3.987638,5.8911672 3.467134,4.4597792 C2.946629,3.0283912 2.403959,2.00000002e-07 3.467134,0 C4.530309,-1.00000001e-07 4.530309,1 5.030309,2.5 C5.530309,4 5.13993,5.9999993 5.530309,6 C5.920687,6.0000006 6.069657,5.6506308 6.069657,5 C6.069657,4.8231855 6.104325,4.6737454 6.174711,4.5498595 C6.363328,4.217878 6.808446,4.0694009 7.530309,4.0694008 C8.52155,4.0694008 8.030309,6.0000001 8.530309,6 C9.030309,6 9.030309,6.0410094 9.030309,5 C9.030308,3.9589906 9.493948,4.069401 10.493948,4.0694008 C11.493948,4.0694008 11.009804,5.9999999 11.530309,6 C12.050813,6.0000001 11.530309,5.0000001 12.030309,5 C12.530309,5 13.030308,5.1577286 13.030309,7.5 C13.030309,9.8422714 13.311066,9.9589904 12.530309,11 C11.749551,12.0410096 11.030309,13 11.030309,13 C11.030309,13 11.030309,14 10.493948,14 C9.957587,14.0000001 9.68094,12.9999999 9.030309,13 C8.379677,13.0000001 8.030309,14 8.030309,14 L5.030309,14 Z M11.030309,12 L11.030309,8 L10.030309,8 L10.030309,12 L11.030309,12 Z M8.030309,11 C8.030309,11.2708838 8.262243,12 8.530309,12 C8.806451,12 9.030309,11.2754211 9.030309,11 L9.030309,9 C9.030309,8.7291162 8.798375,8 8.530309,8 C8.254167,8 8.030309,8.7245789 8.030309,9 L8.030309,11 Z M6.030309,11 C6.030309,11.2708838 6.262243,12 6.530309,12 C6.806451,12 7.030309,11.2754211 7.030309,11 L7.030309,9 C7.030309,8.7291162 6.798375,8 6.530309,8 C6.254167,8 6.030309,8.7245789 6.030309,9 L6.030309,11 Z" id="path-7"></path>
+                                </g>
+                                <path d="M5.346494,2.9750788 C5.344902,2.9695308 5.343305,2.9639584 5.341702,2.9583611 C5.343993,2.9663615 5.345919,2.9730806 5.347502,2.9785977 L5.346494,2.9750788 Z M4.606362,8.8688683 C4.602726,8.6645732 4.595406,8.3732696 4.556126,8.0393946 C4.463352,7.25081 4.245065,6.3121779 3.997237,5.6306507 C3.697492,4.8063522 3.441238,3.6493127 3.374562,2.7292596 C3.277582,1.3910656 3.54088,0.5000002 4.467134,0.5 C5.393528,0.4999999 5.800102,0.9857808 6.13158,2.0862434 C6.101806,1.9873985 6.398242,3.0226621 6.50465,3.3418861 C6.609366,3.6560322 6.683029,3.9986422 6.732553,4.3747211 C6.769329,4.6539947 6.789719,4.8903133 6.803345,5.2025009 C7.11873,4.7518273 7.696456,4.5694009 8.530309,4.5694008 C9.119346,4.5694008 9.429019,4.8734485 9.594104,5.4070606 C9.671699,5.1059383 9.824553,4.8869289 10.076749,4.7413192 C10.360211,4.5776578 10.565583,4.5604563 11.249045,4.5677385 C11.36893,4.5689927 11.422623,4.5694008 11.493948,4.5694008 C12.157706,4.5694008 12.469228,4.9519024 12.623264,5.6166263 C12.73636,5.5419295 12.87438,5.5 13.030309,5.5 C14.088754,5.5 14.530308,6.2823549 14.530309,8.4999999 C14.530309,8.9125726 14.538326,9.2604767 14.554516,9.6875433 C14.598575,10.8497428 14.594842,10.9979705 14.448504,11.4100702 C14.350829,11.6851285 14.19516,11.9468649 13.930309,12.3000001 C12.896949,13.6778121 12.799973,13.8071137 12.523294,14.1760202 C12.512842,14.3113719 12.489589,14.4677182 12.446199,14.6295137 C12.310587,15.135185 12.017079,15.5 11.493948,15.5 C11.11327,15.5000001 10.865438,15.3231063 10.547999,14.9659274 C10.517165,14.9312336 10.485652,14.8949899 10.427785,14.8282135 C10.206805,14.5742554 10.107155,14.5 10.030309,14.5 C9.948546,14.5 9.828231,14.5907818 9.700807,14.7796466 C9.602388,14.9255204 9.533056,15.0769638 9.502331,15.1649097 L9.385261,15.5 L5.86091,15.5 L5.726395,15.3970347 C5.619372,15.3151129 5.435631,15.1694172 5.20048,14.9743411 C4.809004,14.6495797 4.417399,14.3046237 4.050567,13.9532621 C3.742946,13.6586155 3.466037,13.3718986 3.227049,13.0965327 C2.969602,12.799898 2.75925,12.5200601 2.601562,12.2572479 C2.428841,11.969379 2.343435,11.8424581 1.832489,11.099907 C1.7378,10.9622963 1.665861,10.8569915 1.596395,10.7539705 C0.708645,9.4374033 0.353718,8.6448103 0.545238,7.8787322 C0.901966,6.4518208 2.334047,6.0083032 3.383862,7.0581187 C3.637055,7.3113117 3.858354,7.6241829 4.134699,8.0836864 C4.197917,8.1888029 4.409494,8.5495202 4.450369,8.6177801 C4.509492,8.7165129 4.560522,8.7988317 4.606362,8.8688683 Z M11.530309,11 L11.530309,9 L11.030309,9.5 L12.030309,9.5 L11.530309,9 L11.530309,11 Z M11.530309,11 L11.530309,13 L12.030309,12.5 L11.030309,12.5 L11.530309,13 L11.530309,11 Z M9.710703,9.446887 C9.683036,9.4719991 9.626294,9.5 9.530309,9.5 C9.422019,9.5 9.363766,9.4664768 9.338655,9.4394851 C9.367285,9.4809674 9.394002,9.5309946 9.420387,9.5933254 C9.484299,9.7443103 9.530309,9.9331742 9.530309,10 L9.530309,12 C9.530309,12.0716349 9.485542,12.2603554 9.422827,12.4097725 C9.393838,12.4788371 9.364435,12.5320146 9.343199,12.5593743 C9.377582,12.5280009 9.434324,12.5 9.530309,12.5 C9.638599,12.5 9.696852,12.5335232 9.721963,12.5605149 C9.693333,12.5190326 9.666616,12.4690054 9.640231,12.4066746 C9.576319,12.2556897 9.530309,12.0668258 9.530309,12 L9.530309,10 C9.530309,9.9283651 9.575076,9.7396446 9.637791,9.5902275 C9.66678,9.5211629 9.696183,9.4679854 9.717418,9.4406257 L9.710703,9.446887 Z M9.343199,12.5593743 C9.342056,12.5608481 9.340935,12.5622471 9.33984,12.5635695 C9.342629,12.5602019 9.345977,12.5566867 9.349915,12.553113 L9.343199,12.5593743 Z M9.721963,12.5605149 C9.723395,12.562054 9.724719,12.5635719 9.725939,12.5650611 C9.722342,12.5606686 9.718496,12.5555101 9.714444,12.5496359 L9.721963,12.5605149 Z M7.710703,9.446887 C7.683036,9.4719991 7.626294,9.5 7.530309,9.5 C7.422019,9.5 7.363766,9.4664768 7.338655,9.4394851 C7.367285,9.4809674 7.394002,9.5309946 7.420387,9.5933254 C7.484299,9.7443103 7.530309,9.9331742 7.530309,10 L7.530309,12 C7.530309,12.0716349 7.485542,12.2603554 7.422827,12.4097725 C7.393838,12.4788371 7.364435,12.5320146 7.343199,12.5593743 C7.377582,12.5280009 7.434324,12.5 7.530309,12.5 C7.638599,12.5 7.696852,12.5335232 7.721963,12.5605149 C7.693333,12.5190326 7.666616,12.4690054 7.640231,12.4066746 C7.576319,12.2556897 7.530309,12.0668258 7.530309,12 L7.530309,10 C7.530309,9.9283651 7.575076,9.7396446 7.637791,9.5902275 C7.66678,9.5211629 7.696183,9.4679854 7.717418,9.4406257 L7.710703,9.446887 Z M7.343199,12.5593743 C7.342056,12.5608481 7.340935,12.5622471 7.33984,12.5635695 C7.342629,12.5602019 7.345977,12.5566867 7.349915,12.553113 L7.343199,12.5593743 Z M7.721963,12.5605149 C7.723395,12.562054 7.724719,12.5635719 7.725939,12.5650611 C7.722342,12.5606686 7.718496,12.5555101 7.714444,12.5496359 L7.721963,12.5605149 Z" id="Shape" stroke="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="results-list-view-after-hover" transform="translate(61.000000, 746.000000)">
+                    <rect id="Rectangle-3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="441" height="217"></rect>
+                    <text id="Algorithms,-4th-Edition" fill="#E42667" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500">
+                        <tspan x="34" y="51">Algorithms, 4th Edition</tspan>
+                    </text>
+                    <text id="(January-1,-2016)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                        <tspan x="237.581055" y="51">(January 1, 2016)</tspan>
+                    </text>
+                    <text id="by-Bob-Smith" fill="#5B6774" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                        <tspan x="34" y="77">by Bob Smith</tspan>
+                    </text>
+                    <g id="Group-7" transform="translate(34.000000, 96.000000)">
+                        <g id="$35.00" fill="#003773" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500">
+                            <text>
+                                <tspan x="0" y="19">$35.00</tspan>
+                            </text>
+                        </g>
+                        <g id="Algorithms-(CS-330)" transform="translate(0.000000, 38.000000)" fill="#5B6774" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                            <text id="Algorithms-(CS-330)-with-Elliot-Alderson">
+                                <tspan x="0" y="15">Algorithms (CS 330) with Elliot Alderson</tspan>
+                            </text>
+                            <text id="Hardcover,-Acceptable-Condition-(highlighted,-annotated)">
+                                <tspan x="0" y="45">Hardcover, Acceptable Condition (highlighted, annotated)</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Pointer-Copy" transform="translate(189.000000, 47.000000)">
+                        <g id="path-1-link" transform="translate(1.000000, 1.000000)" fill="#000000" fill-rule="nonzero">
+                            <path d="M4.99975607,14 C4.99975607,14 2.79399204,12.3012618 2.01797703,11 C1.24196202,9.6987382 -0.228547003,8.0410095 0.0301250004,7 C0.288797004,5.9589905 1.24196202,5.6309149 2.01797703,6.4116721 C2.79399204,7.1924292 3.31673905,8.8840694 3.83408305,8.623817 C4.35142606,8.3635647 3.96341806,5.8911672 3.44607505,4.4597792 C2.92873204,3.0283912 2.38935703,2.00000002e-07 3.44607505,0 C4.50279306,-1.00000001e-07 4.50279306,1 4.99975607,2.5 C5.49671908,4 5.10871107,5.9999993 5.49671908,6 C5.88472608,6.0000006 6.03279109,5.6506308 6.03279109,5 C6.03279109,4.8231855 6.06724809,4.6737454 6.13720709,4.5498595 C6.32467909,4.217878 6.7670931,4.0694009 7.48457111,4.0694008 C8.46979212,4.0694008 7.98153411,6.0000001 8.47849712,6 C8.97546013,6 8.97546113,6.0410094 8.97546013,5 C8.97546013,3.9589906 9.43628413,4.069401 10.4302101,4.0694008 C11.4241362,4.0694008 10.9429332,5.9999999 11.4602762,6 C11.9776192,6.0000001 11.4602762,5.0000001 11.9572392,5 C12.4542022,5 12.9511652,5.1577286 12.9511652,7.5 C12.9511662,9.8422714 13.2302172,9.9589904 12.4542022,11 C11.6781872,12.0410096 10.9633132,13 10.9633132,13 C10.9633132,13 10.9633132,14 10.4302101,14 C9.89710714,14.0000001 9.62214014,12.9999999 8.97546013,13 C8.32878112,13.0000001 7.98153411,14 7.98153411,14 L4.99975607,14 Z M10.963313,12 L10.963313,8 L9.969387,8 L9.969387,12 L10.963313,12 Z M7.981534,11 C7.981534,11.2708838 8.212059,12 8.478498,12 C8.752963,12 8.975461,11.2754211 8.975461,11 L8.975461,9 C8.975461,8.7291162 8.744936,8 8.478498,8 C8.204032,8 7.981534,8.7245789 7.981534,9 L7.981534,11 Z M5.993682,11 C5.993682,11.2708838 6.224207,12 6.490645,12 C6.76511,12 6.987608,11.2754211 6.987608,11 L6.987608,9 C6.987608,8.7291162 6.757083,8 6.490645,8 C6.21618,8 5.993682,8.7245789 5.993682,9 L5.993682,11 Z" id="path-1"></path>
+                        </g>
+                        <g id="path-1-link" transform="translate(1.000000, 1.000000)" fill="#FFFFFF">
+                            <path d="M4.99975607,14 C4.99975607,14 2.79399204,12.3012618 2.01797703,11 C1.24196202,9.6987382 -0.228547003,8.0410095 0.0301250004,7 C0.288797004,5.9589905 1.24196202,5.6309149 2.01797703,6.4116721 C2.79399204,7.1924292 3.31673905,8.8840694 3.83408305,8.623817 C4.35142606,8.3635647 3.96341806,5.8911672 3.44607505,4.4597792 C2.92873204,3.0283912 2.38935703,2.00000002e-07 3.44607505,0 C4.50279306,-1.00000001e-07 4.50279306,1 4.99975607,2.5 C5.49671908,4 5.10871107,5.9999993 5.49671908,6 C5.88472608,6.0000006 6.03279109,5.6506308 6.03279109,5 C6.03279109,4.8231855 6.06724809,4.6737454 6.13720709,4.5498595 C6.32467909,4.217878 6.7670931,4.0694009 7.48457111,4.0694008 C8.46979212,4.0694008 7.98153411,6.0000001 8.47849712,6 C8.97546013,6 8.97546113,6.0410094 8.97546013,5 C8.97546013,3.9589906 9.43628413,4.069401 10.4302101,4.0694008 C11.4241362,4.0694008 10.9429332,5.9999999 11.4602762,6 C11.9776192,6.0000001 11.4602762,5.0000001 11.9572392,5 C12.4542022,5 12.9511652,5.1577286 12.9511652,7.5 C12.9511662,9.8422714 13.2302172,9.9589904 12.4542022,11 C11.6781872,12.0410096 10.9633132,13 10.9633132,13 C10.9633132,13 10.9633132,14 10.4302101,14 C9.89710714,14.0000001 9.62214014,12.9999999 8.97546013,13 C8.32878112,13.0000001 7.98153411,14 7.98153411,14 L4.99975607,14 Z M10.963313,12 L10.963313,8 L9.969387,8 L9.969387,12 L10.963313,12 Z M7.981534,11 C7.981534,11.2708838 8.212059,12 8.478498,12 C8.752963,12 8.975461,11.2754211 8.975461,11 L8.975461,9 C8.975461,8.7291162 8.744936,8 8.478498,8 C8.204032,8 7.981534,8.7245789 7.981534,9 L7.981534,11 Z M5.993682,11 C5.993682,11.2708838 6.224207,12 6.490645,12 C6.76511,12 6.987608,11.2754211 6.987608,11 L6.987608,9 C6.987608,8.7291162 6.757083,8 6.490645,8 C6.21618,8 5.993682,8.7245789 5.993682,9 L5.993682,11 Z" id="path-1"></path>
+                        </g>
+                        <path d="M5.316955,2.9743112 C5.315373,2.9687613 5.313785,2.9631871 5.312191,2.957588 C5.314469,2.9655918 5.316384,2.9723135 5.317958,2.9778324 L5.316955,2.9743112 Z M4.581252,8.8600021 C4.577523,8.6559149 4.569931,8.3679608 4.53147,8.0390446 C4.439235,7.2502543 4.222229,6.3114281 3.975846,5.6297331 C3.677992,4.8056304 3.423347,3.648827 3.357094,2.7290412 C3.260653,1.3901441 3.522081,0.5000002 4.446075,0.5 C5.369538,0.4999999 5.773975,0.9861808 6.103561,2.0870471 C6.073956,1.9881609 6.368605,3.023474 6.474385,3.3427512 C6.578413,3.656743 6.651595,3.9991921 6.700796,4.3751109 C6.737041,4.6520318 6.757268,4.8867173 6.770808,5.1950999 C7.086019,4.7500498 7.659726,4.5694009 8.484571,4.5694008 C9.068508,4.5694008 9.376613,4.8693989 9.541645,5.3966987 C9.619608,5.1013996 9.77093,4.8860587 10.018957,4.7419813 C10.301786,4.5776879 10.506408,4.5604444 11.186859,4.5677389 C11.306002,4.5689928 11.359346,4.5694008 11.43021,4.5694008 C12.091588,4.5694008 12.401606,4.9507129 12.555027,5.6139472 C12.66709,5.5409605 12.803386,5.5 12.957239,5.5 C14.012278,5.5 14.451165,6.2823801 14.451165,8.4999999 C14.451165,8.9126158 14.459135,9.2605563 14.475228,9.6876582 C14.519003,10.849419 14.515296,10.9975081 14.370002,11.4091668 C14.272982,11.6840514 14.118288,11.9457369 13.855077,12.2988301 C12.827734,13.6769912 12.731558,13.8060091 12.456399,14.1751306 C12.446046,14.3104749 12.422955,14.4669022 12.379806,14.6287794 C12.244923,15.1348119 11.952898,15.5 11.43021,15.5 C11.04977,15.5000001 10.802899,15.3227161 10.486734,14.9647957 C10.456083,14.9300974 10.424757,14.8938494 10.367243,14.8270745 C10.14829,14.5739076 10.049709,14.5 9.975461,14.5 C9.896344,14.5 9.777514,14.5902095 9.651265,14.778476 C9.553405,14.924408 9.484445,15.0759596 9.453867,15.1640162 L9.337198,15.5 L5.829536,15.5 L5.694675,15.3961386 C5.588276,15.3141972 5.405626,15.1684811 5.171877,14.9733831 C4.782742,14.648591 4.39348,14.303603 4.02884,13.9522078 C3.723058,13.6575319 3.447802,13.3707858 3.210242,13.0953929 C2.954345,12.7987413 2.745262,12.5188923 2.588542,12.2560962 C2.416862,11.9682144 2.331976,11.841296 1.824127,11.0987353 C1.730013,10.9611249 1.658511,10.8558204 1.589468,10.7528 C0.707472,9.4367733 0.354799,8.6444 0.544881,7.8794258 C0.899549,6.4520843 2.327074,6.0072761 3.372606,7.0591973 C3.62433,7.3124594 3.844279,7.6253233 4.118953,8.0848386 C4.181784,8.1899511 4.392076,8.5506677 4.432705,8.6189312 C4.48869,8.7129943 4.537374,8.792161 4.581252,8.8600021 Z M11.469387,12.9939262 L11.963313,12.5 L11.469387,12.5 L11.469387,9.5 L11.963313,9.5 L11.469387,9.0060738 L11.469387,9 L11.46635,9.0030369 L11.463313,9 L11.463313,9.0060738 L10.969387,9.5 L11.463313,9.5 L11.463313,12.5 L10.969387,12.5 L11.463313,12.9939262 L11.463313,13 L11.46635,12.9969631 L11.469387,13 L11.469387,12.9939262 Z M9.660976,9.4458691 C9.632987,9.4715049 9.575674,9.5 9.478498,9.5 C9.368949,9.5 9.310164,9.4659225 9.284738,9.4383621 C9.31326,9.4799803 9.339808,9.5300121 9.366022,9.5923201 C9.429652,9.7435574 9.475461,9.9327426 9.475461,10 L9.475461,12 C9.475461,12.0720578 9.430889,12.2611032 9.368449,12.4107731 C9.339623,12.4798704 9.310381,12.5330906 9.289277,12.5604705 C9.324008,12.5284951 9.381321,12.5 9.478498,12.5 C9.588046,12.5 9.646831,12.5340775 9.672257,12.5616379 C9.643735,12.5200197 9.617188,12.4699879 9.590973,12.4076799 C9.527343,12.2564426 9.481534,12.0672574 9.481534,12 L9.481534,10 C9.481534,9.9279422 9.526106,9.7388968 9.588546,9.5892269 C9.617372,9.5201296 9.646614,9.4669094 9.667718,9.4395295 L9.660976,9.4458691 Z M9.289277,12.5604705 C9.288125,12.5619655 9.286997,12.5633835 9.285894,12.5647228 C9.288705,12.5613078 9.29207,12.5577478 9.296019,12.5541309 L9.289277,12.5604705 Z M9.672257,12.5616379 C9.673687,12.5631873 9.675011,12.5647161 9.676232,12.5662171 C9.67263,12.5617911 9.668776,12.5565855 9.664712,12.550652 L9.672257,12.5616379 Z M7.673123,9.4458691 C7.645135,9.4715049 7.587822,9.5 7.490645,9.5 C7.381097,9.5 7.322312,9.4659225 7.296885,9.4383621 C7.325407,9.4799803 7.351955,9.5300121 7.37817,9.5923201 C7.4418,9.7435574 7.487608,9.9327426 7.487608,10 L7.487608,12 C7.487608,12.0720578 7.443036,12.2611032 7.380597,12.4107731 C7.351771,12.4798704 7.322529,12.5330906 7.301425,12.5604705 C7.336155,12.5284951 7.393469,12.5 7.490645,12.5 C7.600194,12.5 7.658978,12.5340775 7.684405,12.5616379 C7.655883,12.5200197 7.629335,12.4699879 7.60312,12.4076799 C7.539491,12.2564426 7.493682,12.0672574 7.493682,12 L7.493682,10 C7.493682,9.9279422 7.538254,9.7388968 7.600693,9.5892269 C7.629519,9.5201296 7.658762,9.4669094 7.679866,9.4395295 L7.673123,9.4458691 Z M7.301425,12.5604705 C7.300272,12.5619655 7.299144,12.5633835 7.298042,12.5647228 C7.300853,12.5613078 7.304218,12.5577478 7.308167,12.5541309 L7.301425,12.5604705 Z M7.684405,12.5616379 C7.685834,12.5631873 7.687158,12.5647161 7.68838,12.5662171 C7.684778,12.5617911 7.680923,12.5565855 7.67686,12.550652 L7.684405,12.5616379 Z" id="Shape" stroke="#000000"></path>
+                    </g>
+                </g>
+                <g id="Group-3" transform="translate(0.000000, 414.000000)">
+                    <g id="results-list-closed-after-hover">
+                        <rect id="Rectangle-6" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="256" height="282"></rect>
+                        <text id="Filter-by" fill="#003773" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500">
+                            <tspan x="51" y="45">Filter by</tspan>
+                        </text>
+                        <path d="M45.9402199,34.3877841 C46.0527467,34.6595658 46.0064129,34.891571 45.801217,35.0838068 L40.9063265,39.9857955 L40.9063265,47.3636364 C40.9063265,47.6420468 40.7772536,47.8375941 40.5191039,47.9502841 C40.433054,47.9834282 40.350315,48 40.2708843,48 C40.0921653,48 39.9432351,47.9370271 39.8240891,47.8110795 L37.2823204,45.265625 C37.1565552,45.1396774 37.0936735,44.9905312 37.0936735,44.8181818 L37.0936735,39.9857955 L32.198783,35.0838068 C31.9935871,34.891571 31.9472533,34.6595658 32.0597801,34.3877841 C32.1723068,34.1292601 32.367571,34 32.6455783,34 L45.3544217,34 C45.632429,34 45.8276932,34.1292601 45.9402199,34.3877841 Z" id="" fill="#003773" fill-rule="nonzero"></path>
+                        <g id="Group-2" transform="translate(32.000000, 72.000000)" fill="#E42667">
+                            <g id="Group-11" transform="translate(13.000000, 0.000000)" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold">
+                                <g id="Purpose">
+                                    <text>
+                                        <tspan x="0" y="15">Purpose</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Group" transform="translate(0.000000, 6.000000)" fill-rule="nonzero">
+                                <polygon id="Combined-Shape" points="5.5 3.5 9 3.5 9 5.5 5.5 5.5 5.5 9 3.5 9 3.5 5.5 0 5.5 0 3.5 3.5 3.5 3.5 0 5.5 0"></polygon>
+                            </g>
+                        </g>
+                        <g id="Group-3" transform="translate(32.000000, 112.000000)" fill="#003773">
+                            <g id="Format" transform="translate(13.000000, 0.000000)" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold">
+                                <text>
+                                    <tspan x="0" y="15">Format</tspan>
+                                </text>
+                            </g>
+                            <g id="plus" transform="translate(0.000000, 6.000000)" fill-rule="nonzero">
+                                <g id="Group">
+                                    <polygon id="Combined-Shape" points="5.5 3.5 9 3.5 9 5.5 5.5 5.5 5.5 9 3.5 9 3.5 5.5 0 5.5 0 3.5 3.5 3.5 3.5 0 5.5 0"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-8" transform="translate(32.000000, 152.000000)" fill="#003773">
+                            <g id="Condition" transform="translate(13.000000, 0.000000)" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold">
+                                <text>
+                                    <tspan x="0" y="15">Condition</tspan>
+                                </text>
+                            </g>
+                            <g id="plus" transform="translate(0.000000, 6.000000)" fill-rule="nonzero">
+                                <g id="Group">
+                                    <polygon id="Combined-Shape" points="5.5 3.5 9 3.5 9 5.5 5.5 5.5 5.5 9 3.5 9 3.5 5.5 0 5.5 0 3.5 3.5 3.5 3.5 0 5.5 0"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-9" transform="translate(32.000000, 192.000000)" fill="#003773">
+                            <g id="Condition-Details" transform="translate(13.000000, 0.000000)" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold">
+                                <text>
+                                    <tspan x="0" y="15">Condition Details</tspan>
+                                </text>
+                            </g>
+                            <g id="plus" transform="translate(0.000000, 6.000000)" fill-rule="nonzero">
+                                <g id="Group">
+                                    <polygon id="Combined-Shape" points="5.5 3.5 9 3.5 9 5.5 5.5 5.5 5.5 9 3.5 9 3.5 5.5 0 5.5 0 3.5 3.5 3.5 3.5 0 5.5 0"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-10" transform="translate(32.000000, 232.000000)" fill="#003773">
+                            <g id="Price" transform="translate(13.000000, 0.000000)" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold">
+                                <text>
+                                    <tspan x="0" y="15">Price</tspan>
+                                </text>
+                            </g>
+                            <g id="plus" transform="translate(0.000000, 6.000000)" fill-rule="nonzero">
+                                <g id="Group">
+                                    <polygon id="Combined-Shape" points="5.5 3.5 9 3.5 9 5.5 5.5 5.5 5.5 9 3.5 9 3.5 5.5 0 5.5 0 3.5 3.5 3.5 3.5 0 5.5 0"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Pointer" transform="translate(77.000000, 82.000000)">
+                            <g id="path-1-link" transform="translate(1.000000, 1.000000)" fill="#000000" fill-rule="nonzero">
+                                <path d="M4.99975563,14 C4.99975563,14 2.79399211,12.3012618 2.01797721,11 C1.24196221,9.6987382 -0.228546801,8.0410095 0.0301249002,7 C0.288796502,5.9589905 1.24196221,5.6309149 2.01797721,6.4116721 C2.79399231,7.1924292 3.31673912,8.8840694 3.83408252,8.623817 C4.35142592,8.3635647 3.96341822,5.8911672 3.44607512,4.4597792 C2.92873192,3.0283912 2.38935741,2.00000002e-07 3.44607512,0 C4.50279272,-9.99999941e-08 4.50279252,1 4.99975563,2.5 C5.49671883,4 5.10871123,5.9999993 5.49671873,6 C5.88472633,6.0000006 6.03279133,5.6506308 6.03279143,5 C6.03279153,4.8231855 6.06724813,4.6737454 6.13720713,4.5498595 C6.32467893,4.217878 6.76709254,4.0694009 7.48457114,4.0694008 C8.46979204,4.0694008 7.98153424,6.0000001 8.47849734,6 C8.97546045,6 8.97546085,6.0410094 8.97546045,5 C8.97546015,3.9589906 9.43628365,4.069401 10.4302099,4.0694008 C11.4241361,4.0694008 10.9429331,5.9999999 11.460276,6 C11.977619,6.0000001 11.460276,5.0000001 11.9572391,5 C12.4542022,5 12.9511648,5.1577286 12.9511653,7.5 C12.9511659,9.8422714 13.2302175,9.9589904 12.4542022,11 C11.6781869,12.0410096 10.9633129,13 10.9633129,13 C10.9633129,13 10.9633129,14 10.4302099,14 C9.89710695,14.0000001 9.62213995,12.9999999 8.97546045,13 C8.32878094,13.0000001 7.98153424,14 7.98153424,14 L4.99975563,14 Z M10.9633131,12 L10.9633131,8 L9.9693869,8 L9.9693869,12 L10.9633131,12 Z M7.9815345,11 C7.9815345,11.2708838 8.2120593,12 8.4784976,12 C8.7529627,12 8.9754607,11.2754211 8.9754607,11 L8.9754607,9 C8.9754607,8.7291162 8.7449358,8 8.4784976,8 C8.2040324,8 7.9815345,8.7245789 7.9815345,9 L7.9815345,11 Z M5.9936821,11 C5.9936821,11.2708838 6.2242069,12 6.4906452,12 C6.7651103,12 6.9876083,11.2754211 6.9876083,11 L6.9876083,9 C6.9876083,8.7291162 6.7570834,8 6.4906452,8 C6.21618,8 5.9936821,8.7245789 5.9936821,9 L5.9936821,11 Z" id="path-1"></path>
+                            </g>
+                            <g id="path-1-link" transform="translate(1.000000, 1.000000)" fill="#FFFFFF">
+                                <path d="M4.99975563,14 C4.99975563,14 2.79399211,12.3012618 2.01797721,11 C1.24196221,9.6987382 -0.228546801,8.0410095 0.0301249002,7 C0.288796502,5.9589905 1.24196221,5.6309149 2.01797721,6.4116721 C2.79399231,7.1924292 3.31673912,8.8840694 3.83408252,8.623817 C4.35142592,8.3635647 3.96341822,5.8911672 3.44607512,4.4597792 C2.92873192,3.0283912 2.38935741,2.00000002e-07 3.44607512,0 C4.50279272,-9.99999941e-08 4.50279252,1 4.99975563,2.5 C5.49671883,4 5.10871123,5.9999993 5.49671873,6 C5.88472633,6.0000006 6.03279133,5.6506308 6.03279143,5 C6.03279153,4.8231855 6.06724813,4.6737454 6.13720713,4.5498595 C6.32467893,4.217878 6.76709254,4.0694009 7.48457114,4.0694008 C8.46979204,4.0694008 7.98153424,6.0000001 8.47849734,6 C8.97546045,6 8.97546085,6.0410094 8.97546045,5 C8.97546015,3.9589906 9.43628365,4.069401 10.4302099,4.0694008 C11.4241361,4.0694008 10.9429331,5.9999999 11.460276,6 C11.977619,6.0000001 11.460276,5.0000001 11.9572391,5 C12.4542022,5 12.9511648,5.1577286 12.9511653,7.5 C12.9511659,9.8422714 13.2302175,9.9589904 12.4542022,11 C11.6781869,12.0410096 10.9633129,13 10.9633129,13 C10.9633129,13 10.9633129,14 10.4302099,14 C9.89710695,14.0000001 9.62213995,12.9999999 8.97546045,13 C8.32878094,13.0000001 7.98153424,14 7.98153424,14 L4.99975563,14 Z M10.9633131,12 L10.9633131,8 L9.9693869,8 L9.9693869,12 L10.9633131,12 Z M7.9815345,11 C7.9815345,11.2708838 8.2120593,12 8.4784976,12 C8.7529627,12 8.9754607,11.2754211 8.9754607,11 L8.9754607,9 C8.9754607,8.7291162 8.7449358,8 8.4784976,8 C8.2040324,8 7.9815345,8.7245789 7.9815345,9 L7.9815345,11 Z M5.9936821,11 C5.9936821,11.2708838 6.2242069,12 6.4906452,12 C6.7651103,12 6.9876083,11.2754211 6.9876083,11 L6.9876083,9 C6.9876083,8.7291162 6.7570834,8 6.4906452,8 C6.21618,8 5.9936821,8.7245789 5.9936821,9 L5.9936821,11 Z" id="path-1"></path>
+                            </g>
+                            <path d="M5.3169553,2.9743112 C5.3153727,2.9687613 5.3137847,2.9631871 5.3121912,2.957588 C5.3144691,2.9655918 5.3163841,2.9723135 5.3179585,2.9778324 L5.3169553,2.9743112 Z M4.5812519,8.8600021 C4.5775233,8.6559149 4.5699309,8.3679608 4.5314699,8.0390446 C4.4392346,7.2502543 4.222229,6.3114281 3.9758457,5.6297331 C3.6779922,4.8056304 3.4233467,3.648827 3.3570943,2.7290412 C3.2606532,1.3901441 3.5220812,0.5000002 4.446075,0.5 C5.3695381,0.4999999 5.7739752,0.9861808 6.1035611,2.0870471 C6.0739557,1.9881609 6.3686054,3.023474 6.4743848,3.3427512 C6.578413,3.656743 6.6515947,3.9991921 6.7007964,4.3751109 C6.737041,4.6520318 6.757268,4.8867173 6.7708076,5.1950999 C7.0860192,4.7500498 7.6597265,4.5694009 8.4845711,4.5694008 C9.0685083,4.5694008 9.3766134,4.8693989 9.5416449,5.3966987 C9.6196082,5.1013996 9.77093,4.8860587 10.0189571,4.7419813 C10.3017856,4.5776879 10.5064081,4.5604444 11.1868594,4.5677389 C11.3060024,4.5689928 11.3593456,4.5694008 11.4302098,4.5694008 C12.091588,4.5694008 12.401606,4.9507129 12.5550272,5.6139472 C12.6670897,5.5409605 12.8033859,5.5 12.957239,5.5 C14.012278,5.5 14.4511647,6.2823801 14.4511652,8.4999999 C14.4511653,8.9126158 14.4591349,9.2605563 14.4752281,9.6876582 C14.519003,10.849419 14.5152958,10.9975081 14.3700017,11.4091668 C14.2729817,11.6840514 14.1182884,11.9457369 13.8550769,12.2988301 C12.8277339,13.6769912 12.7315582,13.8060091 12.4563987,14.1751306 C12.4460464,14.3104749 12.4229549,14.4669022 12.3798063,14.6287794 C12.2449226,15.1348119 11.9528983,15.5 11.4302099,15.5 C11.0497699,15.5000001 10.8028994,15.3227161 10.4867336,14.9647957 C10.4560831,14.9300974 10.4247575,14.8938494 10.3672435,14.8270745 C10.14829,14.5739076 10.0497094,14.5 9.9754605,14.5 C9.8963437,14.5 9.7775139,14.5902095 9.6512649,14.778476 C9.5534049,14.924408 9.4844448,15.0759596 9.4538675,15.1640162 L9.3371982,15.5 L5.8295361,15.5 L5.694675,15.3961386 C5.5882764,15.3141972 5.4056255,15.1684811 5.1718773,14.9733831 C4.7827417,14.648591 4.3934795,14.303603 4.02884,13.9522078 C3.7230575,13.6575319 3.4478021,13.3707858 3.2102424,13.0953929 C2.9543446,12.7987413 2.7452618,12.5188923 2.5885418,12.2560962 C2.4168618,11.9682144 2.331976,11.841296 1.8241273,11.0987353 C1.7300134,10.9611249 1.6585114,10.8558204 1.5894675,10.7528 C0.7074719,9.4367733 0.3547988,8.6444 0.5448807,7.8794258 C0.8995488,6.4520843 2.3270739,6.0072761 3.3726059,7.0591973 C3.6243298,7.3124594 3.8442794,7.6253233 4.1189533,8.0848386 C4.181784,8.1899511 4.3920762,8.5506677 4.4327053,8.6189312 C4.4886897,8.7129943 4.5373741,8.792161 4.5812519,8.8600021 Z M11.4693869,12.9939262 L11.9633131,12.5 L11.4693869,12.5 L11.4693869,9.5 L11.9633131,9.5 L11.4693869,9.0060738 L11.4693869,9 L11.46635,9.0030369 L11.4633131,9 L11.4633131,9.0060738 L10.9693869,9.5 L11.4633131,9.5 L11.4633131,12.5 L10.9693869,12.5 L11.4633131,12.9939262 L11.4633131,13 L11.46635,12.9969631 L11.4693869,13 L11.4693869,12.9939262 Z M9.6609759,9.4458691 C9.6329875,9.4715049 9.5756741,9.5 9.4784976,9.5 C9.3689491,9.5 9.3101644,9.4659225 9.2847378,9.4383621 C9.3132598,9.4799803 9.3398076,9.5300121 9.3660223,9.5923201 C9.4296521,9.7435574 9.4754607,9.9327426 9.4754607,10 L9.4754607,12 C9.4754607,12.0720578 9.4308887,12.2611032 9.3684493,12.4107731 C9.3396233,12.4798704 9.3103811,12.5330906 9.2892772,12.5604705 C9.3240076,12.5284951 9.3813211,12.5 9.4784976,12.5 C9.5880461,12.5 9.6468308,12.5340775 9.6722573,12.5616379 C9.6437353,12.5200197 9.6171875,12.4699879 9.5909728,12.4076799 C9.527343,12.2564426 9.4815345,12.0672574 9.4815345,12 L9.4815345,10 C9.4815345,9.9279422 9.5261064,9.7388968 9.5885458,9.5892269 C9.6173718,9.5201296 9.646614,9.4669094 9.6677179,9.4395295 L9.6609759,9.4458691 Z M9.2892772,12.5604705 C9.2881249,12.5619655 9.2869968,12.5633835 9.2858944,12.5647228 C9.2887054,12.5613078 9.2920704,12.5577478 9.2960192,12.5541309 L9.2892772,12.5604705 Z M9.6722573,12.5616379 C9.6736867,12.5631873 9.6750107,12.5647161 9.6762324,12.5662171 C9.67263,12.5617911 9.6687757,12.5565855 9.6647125,12.550652 L9.6722573,12.5616379 Z M7.6731235,9.4458691 C7.6451351,9.4715049 7.5878217,9.5 7.4906452,9.5 C7.3810967,9.5 7.322312,9.4659225 7.2968854,9.4383621 C7.3254074,9.4799803 7.3519552,9.5300121 7.3781699,9.5923201 C7.4417997,9.7435574 7.4876083,9.9327426 7.4876083,10 L7.4876083,12 C7.4876083,12.0720578 7.4430363,12.2611032 7.3805969,12.4107731 C7.3517709,12.4798704 7.3225287,12.5330906 7.3014248,12.5604705 C7.3361552,12.5284951 7.3934687,12.5 7.4906452,12.5 C7.6001937,12.5 7.6589784,12.5340775 7.6844049,12.5616379 C7.6558829,12.5200197 7.6293351,12.4699879 7.6031204,12.4076799 C7.5394906,12.2564426 7.4936821,12.0672574 7.4936821,12 L7.4936821,10 C7.4936821,9.9279422 7.538254,9.7388968 7.6006934,9.5892269 C7.6295194,9.5201296 7.6587616,9.4669094 7.6798655,9.4395295 L7.6731235,9.4458691 Z M7.3014248,12.5604705 C7.3002725,12.5619655 7.2991444,12.5633835 7.298042,12.5647228 C7.300853,12.5613078 7.304218,12.5577478 7.3081668,12.5541309 L7.3014248,12.5604705 Z M7.6844049,12.5616379 C7.6858343,12.5631873 7.6871583,12.5647161 7.68838,12.5662171 C7.6847776,12.5617911 7.6809233,12.5565855 7.6768601,12.550652 L7.6844049,12.5616379 Z" id="Shape" stroke="#000000"></path>
+                        </g>
+                    </g>
+                    <g id="filter-results-list-view-after-hover" transform="translate(306.000000, 0.000000)">
+                        <rect id="Rectangle-5" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="256" height="282"></rect>
+                        <g transform="translate(32.000000, 24.000000)">
+                            <text id="Filter-by" fill="#003773" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500">
+                                <tspan x="19" y="19">Filter by</tspan>
+                            </text>
+                            <path d="M13.9402199,8.3877841 C14.0527467,8.6595658 14.0064129,8.891571 13.801217,9.0838068 L8.90632652,13.9857955 L8.90632652,21.3636364 C8.90632652,21.6420468 8.77725362,21.8375941 8.51910392,21.9502841 C8.43305402,21.9834282 8.35031502,22 8.27088432,22 C8.09216532,22 7.94323512,21.9370271 7.82408912,21.8110795 L5.28232041,19.265625 C5.15655521,19.1396774 5.09367351,18.9905312 5.09367351,18.8181818 L5.09367351,13.9857955 L0.198783,9.0838068 C-0.00641290002,8.891571 -0.0527467001,8.6595658 0.0597801001,8.3877841 C0.1723068,8.1292601 0.367571001,8 0.645578302,8 L13.3544217,8 C13.632429,8 13.8276932,8.1292601 13.9402199,8.3877841 Z" id="" fill="#003773" fill-rule="nonzero"></path>
+                            <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 95.000000)">
+                                <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                                    <text id="Medical-School-Prep">
+                                        <tspan x="0" y="15">Medical School Prep</tspan>
+                                    </text>
+                                </g>
+                                <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                                    <g id="path-1-link" fill="#FFFFFF">
+                                        <rect id="path-1" x="0" y="0" width="14" height="14" rx="2"></rect>
+                                    </g>
+                                    <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                                </g>
+                            </g>
+                            <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 119.000000)">
+                                <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                                    <text id="Law-School-Prep">
+                                        <tspan x="0" y="15">Law School Prep</tspan>
+                                    </text>
+                                </g>
+                                <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                                    <g id="path-2-link" fill="#FFFFFF">
+                                        <rect id="path-2" x="0" y="0" width="14" height="14" rx="2"></rect>
+                                    </g>
+                                    <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                                </g>
+                            </g>
+                            <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 143.000000)">
+                                <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                                    <text id="Graduate-School-Prep">
+                                        <tspan x="0" y="15">Graduate School Prep</tspan>
+                                    </text>
+                                </g>
+                                <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                                    <g id="path-3-link" fill="#FFFFFF">
+                                        <rect id="path-3" x="0" y="0" width="14" height="14" rx="2"></rect>
+                                    </g>
+                                    <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                                </g>
+                            </g>
+                            <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 167.000000)">
+                                <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                                    <text id="Consulting-Interview-Prep">
+                                        <tspan x="0" y="15">Consulting Interview Prep</tspan>
+                                    </text>
+                                </g>
+                                <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                                    <g id="path-4-link" fill="#FFFFFF">
+                                        <rect id="path-4" x="0" y="0" width="14" height="14" rx="2"></rect>
+                                    </g>
+                                    <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                                </g>
+                            </g>
+                            <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 191.000000)">
+                                <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                                    <text id="Tech-Interview-Prep">
+                                        <tspan x="0" y="15">Tech Interview Prep</tspan>
+                                    </text>
+                                </g>
+                                <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                                    <g id="path-5-link" fill="#FFFFFF">
+                                        <rect id="path-5" x="0" y="0" width="14" height="14" rx="2"></rect>
+                                    </g>
+                                    <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                                </g>
+                            </g>
+                            <g id="Forms-/-checkbox:-unchecked" transform="translate(0.000000, 215.000000)">
+                                <g id="Marketing-Department" transform="translate(22.000000, 0.000000)" fill="#5B6774" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                                    <text id="Other">
+                                        <tspan x="0" y="15">Other</tspan>
+                                    </text>
+                                </g>
+                                <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                                    <g id="path-6-link" fill="#FFFFFF">
+                                        <rect id="path-6" x="0" y="0" width="14" height="14" rx="2"></rect>
+                                    </g>
+                                    <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                                </g>
+                            </g>
+                            <g id="Forms-/-checkbox:-unchecked-Copy-9" transform="translate(0.000000, 71.000000)">
+                                <g id="Group-11">
+                                    <text id="Course" fill="#E42667" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+                                        <tspan x="22" y="15">Course</tspan>
+                                    </text>
+                                    <g id="Rectangle-33" transform="translate(0.000000, 4.000000)">
+                                        <g id="path-7-link" fill="#FFFFFF">
+                                            <rect id="path-7" x="0" y="0" width="14" height="14" rx="2"></rect>
+                                        </g>
+                                        <rect id="Rectangle-path" stroke="#ACBBCB" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-11" transform="translate(0.000000, 46.000000)" fill="#003773">
+                                <g id="Purpose" transform="translate(13.000000, 0.000000)" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold">
+                                    <text>
+                                        <tspan x="0" y="15">Purpose</tspan>
+                                    </text>
+                                </g>
+                                <g id="minus" transform="translate(0.000000, 9.000000)" fill-rule="nonzero">
+                                    <polygon id="+" points="5.14151925 0 9 0 9 2 5.14151925 2 3.83975026 2 0 2 0 0 3.83975026 0"></polygon>
+                                </g>
+                            </g>
+                            <g id="Pointer" transform="translate(50.000000, 80.000000)">
+                                <g id="path-8-link" transform="translate(1.000000, 1.000000)" fill="#000000" fill-rule="nonzero">
+                                    <path d="M4.99975563,14 C4.99975563,14 2.79399211,12.301262 2.01797721,11 C1.24196221,9.698738 -0.228546801,8.041009 0.0301249002,7 C0.288796502,5.958991 1.24196221,5.630915 2.01797721,6.411672 C2.79399231,7.192429 3.31673912,8.884069 3.83408252,8.623817 C4.35142592,8.363565 3.96341822,5.891167 3.44607512,4.459779 C2.92873192,3.028391 2.38935741,0 3.44607512,0 C4.50279272,0 4.50279252,1 4.99975563,2.5 C5.49671883,4 5.10871123,5.999999 5.49671873,6 C5.88472633,6.000001 6.03279133,5.650631 6.03279143,5 C6.03279153,4.823185 6.06724813,4.673745 6.13720713,4.54986 C6.32467893,4.217878 6.76709254,4.069401 7.48457114,4.069401 C8.46979204,4.069401 7.98153424,6 8.47849734,6 C8.97546045,6 8.97546085,6.041009 8.97546045,5 C8.97546015,3.958991 9.43628365,4.069401 10.4302099,4.069401 C11.4241361,4.069401 10.9429331,6 11.460276,6 C11.977619,6 11.460276,5 11.9572391,5 C12.4542022,5 12.9511648,5.157729 12.9511653,7.5 C12.9511659,9.842271 13.2302175,9.95899 12.4542022,11 C11.6781869,12.04101 10.9633129,13 10.9633129,13 C10.9633129,13 10.9633129,14 10.4302099,14 C9.89710695,14 9.62213995,13 8.97546045,13 C8.32878094,13 7.98153424,14 7.98153424,14 L4.99975563,14 Z M10.9633131,12 L10.9633131,8 L9.9693869,8 L9.9693869,12 L10.9633131,12 Z M7.9815345,11 C7.9815345,11.270884 8.2120593,12 8.4784976,12 C8.7529627,12 8.9754607,11.275421 8.9754607,11 L8.9754607,9 C8.9754607,8.729116 8.7449358,8 8.4784976,8 C8.2040324,8 7.9815345,8.724579 7.9815345,9 L7.9815345,11 Z M5.9936821,11 C5.9936821,11.270884 6.2242069,12 6.4906452,12 C6.7651103,12 6.9876083,11.275421 6.9876083,11 L6.9876083,9 C6.9876083,8.729116 6.7570834,8 6.4906452,8 C6.21618,8 5.9936821,8.724579 5.9936821,9 L5.9936821,11 Z" id="path-8"></path>
+                                </g>
+                                <g id="path-8-link" transform="translate(1.000000, 1.000000)" fill="#FFFFFF">
+                                    <path d="M4.99975563,14 C4.99975563,14 2.79399211,12.301262 2.01797721,11 C1.24196221,9.698738 -0.228546801,8.041009 0.0301249002,7 C0.288796502,5.958991 1.24196221,5.630915 2.01797721,6.411672 C2.79399231,7.192429 3.31673912,8.884069 3.83408252,8.623817 C4.35142592,8.363565 3.96341822,5.891167 3.44607512,4.459779 C2.92873192,3.028391 2.38935741,0 3.44607512,0 C4.50279272,0 4.50279252,1 4.99975563,2.5 C5.49671883,4 5.10871123,5.999999 5.49671873,6 C5.88472633,6.000001 6.03279133,5.650631 6.03279143,5 C6.03279153,4.823185 6.06724813,4.673745 6.13720713,4.54986 C6.32467893,4.217878 6.76709254,4.069401 7.48457114,4.069401 C8.46979204,4.069401 7.98153424,6 8.47849734,6 C8.97546045,6 8.97546085,6.041009 8.97546045,5 C8.97546015,3.958991 9.43628365,4.069401 10.4302099,4.069401 C11.4241361,4.069401 10.9429331,6 11.460276,6 C11.977619,6 11.460276,5 11.9572391,5 C12.4542022,5 12.9511648,5.157729 12.9511653,7.5 C12.9511659,9.842271 13.2302175,9.95899 12.4542022,11 C11.6781869,12.04101 10.9633129,13 10.9633129,13 C10.9633129,13 10.9633129,14 10.4302099,14 C9.89710695,14 9.62213995,13 8.97546045,13 C8.32878094,13 7.98153424,14 7.98153424,14 L4.99975563,14 Z M10.9633131,12 L10.9633131,8 L9.9693869,8 L9.9693869,12 L10.9633131,12 Z M7.9815345,11 C7.9815345,11.270884 8.2120593,12 8.4784976,12 C8.7529627,12 8.9754607,11.275421 8.9754607,11 L8.9754607,9 C8.9754607,8.729116 8.7449358,8 8.4784976,8 C8.2040324,8 7.9815345,8.724579 7.9815345,9 L7.9815345,11 Z M5.9936821,11 C5.9936821,11.270884 6.2242069,12 6.4906452,12 C6.7651103,12 6.9876083,11.275421 6.9876083,11 L6.9876083,9 C6.9876083,8.729116 6.7570834,8 6.4906452,8 C6.21618,8 5.9936821,8.724579 5.9936821,9 L5.9936821,11 Z" id="path-8"></path>
+                                </g>
+                                <path d="M5.3169553,2.974311 C5.3153727,2.968761 5.3137847,2.963187 5.3121912,2.957588 C5.3144691,2.965592 5.3163841,2.972314 5.3179585,2.977832 L5.3169553,2.974311 Z M4.5812519,8.860002 C4.5775233,8.655915 4.5699309,8.367961 4.5314699,8.039045 C4.4392346,7.250254 4.222229,6.311428 3.9758457,5.629733 C3.6779922,4.80563 3.4233467,3.648827 3.3570943,2.729041 C3.2606532,1.390144 3.5220812,0.5 4.446075,0.5 C5.3695381,0.5 5.7739752,0.986181 6.1035611,2.087047 C6.0739557,1.988161 6.3686054,3.023474 6.4743848,3.342751 C6.578413,3.656743 6.6515947,3.999192 6.7007964,4.375111 C6.737041,4.652032 6.757268,4.886717 6.7708076,5.1951 C7.0860192,4.75005 7.6597265,4.569401 8.4845711,4.569401 C9.0685083,4.569401 9.3766134,4.869399 9.5416449,5.396699 C9.6196082,5.1014 9.77093,4.886059 10.0189571,4.741981 C10.3017856,4.577688 10.5064081,4.560444 11.1868594,4.567739 C11.3060024,4.568993 11.3593456,4.569401 11.4302098,4.569401 C12.091588,4.569401 12.401606,4.950713 12.5550272,5.613947 C12.6670897,5.540961 12.8033859,5.5 12.957239,5.5 C14.012278,5.5 14.4511647,6.28238 14.4511652,8.5 C14.4511653,8.912616 14.4591349,9.260556 14.4752281,9.687658 C14.519003,10.849419 14.5152958,10.997508 14.3700017,11.409167 C14.2729817,11.684051 14.1182884,11.945737 13.8550769,12.29883 C12.8277339,13.676991 12.7315582,13.806009 12.4563987,14.175131 C12.4460464,14.310475 12.4229549,14.466902 12.3798063,14.628779 C12.2449226,15.134812 11.9528983,15.5 11.4302099,15.5 C11.0497699,15.5 10.8028994,15.322716 10.4867336,14.964796 C10.4560831,14.930097 10.4247575,14.893849 10.3672435,14.827075 C10.14829,14.573908 10.0497094,14.5 9.9754605,14.5 C9.8963437,14.5 9.7775139,14.590209 9.6512649,14.778476 C9.5534049,14.924408 9.4844448,15.07596 9.4538675,15.164016 L9.3371982,15.5 L5.8295361,15.5 L5.694675,15.396139 C5.5882764,15.314197 5.4056255,15.168481 5.1718773,14.973383 C4.7827417,14.648591 4.3934795,14.303603 4.02884,13.952208 C3.7230575,13.657532 3.4478021,13.370786 3.2102424,13.095393 C2.9543446,12.798741 2.7452618,12.518892 2.5885418,12.256096 C2.4168618,11.968214 2.331976,11.841296 1.8241273,11.098735 C1.7300134,10.961125 1.6585114,10.85582 1.5894675,10.7528 C0.7074719,9.436773 0.3547988,8.6444 0.5448807,7.879426 C0.8995488,6.452084 2.3270739,6.007276 3.3726059,7.059197 C3.6243298,7.312459 3.8442794,7.625323 4.1189533,8.084839 C4.181784,8.189951 4.3920762,8.550668 4.4327053,8.618931 C4.4886897,8.712994 4.5373741,8.792161 4.5812519,8.860002 Z M11.4693869,12.993926 L11.9633131,12.5 L11.4693869,12.5 L11.4693869,9.5 L11.9633131,9.5 L11.4693869,9.006074 L11.4693869,9 L11.46635,9.003037 L11.4633131,9 L11.4633131,9.006074 L10.9693869,9.5 L11.4633131,9.5 L11.4633131,12.5 L10.9693869,12.5 L11.4633131,12.993926 L11.4633131,13 L11.46635,12.996963 L11.4693869,13 L11.4693869,12.993926 Z M9.6609759,9.445869 C9.6329875,9.471505 9.5756741,9.5 9.4784976,9.5 C9.3689491,9.5 9.3101644,9.465922 9.2847378,9.438362 C9.3132598,9.47998 9.3398076,9.530012 9.3660223,9.59232 C9.4296521,9.743557 9.4754607,9.932743 9.4754607,10 L9.4754607,12 C9.4754607,12.072058 9.4308887,12.261103 9.3684493,12.410773 C9.3396233,12.47987 9.3103811,12.533091 9.2892772,12.560471 C9.3240076,12.528495 9.3813211,12.5 9.4784976,12.5 C9.5880461,12.5 9.6468308,12.534078 9.6722573,12.561638 C9.6437353,12.52002 9.6171875,12.469988 9.5909728,12.40768 C9.527343,12.256443 9.4815345,12.067257 9.4815345,12 L9.4815345,10 C9.4815345,9.927942 9.5261064,9.738897 9.5885458,9.589227 C9.6173718,9.52013 9.646614,9.466909 9.6677179,9.439529 L9.6609759,9.445869 Z M9.2892772,12.560471 C9.2881249,12.561966 9.2869968,12.563383 9.2858944,12.564723 C9.2887054,12.561308 9.2920704,12.557748 9.2960192,12.554131 L9.2892772,12.560471 Z M9.6722573,12.561638 C9.6736867,12.563187 9.6750107,12.564716 9.6762324,12.566217 C9.67263,12.561791 9.6687757,12.556585 9.6647125,12.550652 L9.6722573,12.561638 Z M7.6731235,9.445869 C7.6451351,9.471505 7.5878217,9.5 7.4906452,9.5 C7.3810967,9.5 7.322312,9.465922 7.2968854,9.438362 C7.3254074,9.47998 7.3519552,9.530012 7.3781699,9.59232 C7.4417997,9.743557 7.4876083,9.932743 7.4876083,10 L7.4876083,12 C7.4876083,12.072058 7.4430363,12.261103 7.3805969,12.410773 C7.3517709,12.47987 7.3225287,12.533091 7.3014248,12.560471 C7.3361552,12.528495 7.3934687,12.5 7.4906452,12.5 C7.6001937,12.5 7.6589784,12.534078 7.6844049,12.561638 C7.6558829,12.52002 7.6293351,12.469988 7.6031204,12.40768 C7.5394906,12.256443 7.4936821,12.067257 7.4936821,12 L7.4936821,10 C7.4936821,9.927942 7.538254,9.738897 7.6006934,9.589227 C7.6295194,9.52013 7.6587616,9.466909 7.6798655,9.439529 L7.6731235,9.445869 Z M7.3014248,12.560471 C7.3002725,12.561966 7.2991444,12.563383 7.298042,12.564723 C7.300853,12.561308 7.304218,12.557748 7.3081668,12.554131 L7.3014248,12.560471 Z M7.6844049,12.561638 C7.6858343,12.563187 7.6871583,12.564716 7.68838,12.566217 C7.6847776,12.561791 7.6809233,12.556585 7.6768601,12.550652 L7.6844049,12.561638 Z" id="Shape" stroke="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
