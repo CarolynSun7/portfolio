@@ -73,6 +73,10 @@
   background: #FEFFC6; /* Gecko Browsers */
 }
 
+.project-cover {
+    width:100%
+}
+
 .about-photo{
     width: 100%;
     margin-top: 60px;
